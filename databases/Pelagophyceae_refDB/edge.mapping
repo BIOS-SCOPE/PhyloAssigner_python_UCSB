@@ -1,0 +1,134 @@
+130	
+132	
+131	dic	UncB3422
+133	
+102	
+60	
+52	
+42	
+34	
+18	pelagomonas
+14	pelagomonas;pelagomonas_clade_A
+12	pelagomonas;pelagomonas_clade_A;
+6	pelagomonas;pelagomonas_clade_A;
+4	pelagomonas;pelagomonas_clade_A;
+2	pelagomonas;pelagomonas_clade_A;
+0	pelagomonas;pelagomonas_clade_A	PgnNCGRS
+1	pelagomonas;pelagomonas_clade_A	UncB3846
+3	pelagomonas;pelagomonas_clade_A	UncPelag
+5	pelagomonas;pelagomonas_clade_A	PlPCAMNT
+11	pelagomonas;pelagomonas_clade_A;
+9	pelagomonas;pelagomonas_clade_A;
+7	pelagomonas;pelagomonas_clade_A	HqUncult
+8	pelagomonas;pelagomonas_clade_A	UncB3431
+10	pelagomonas;pelagomonas_clade_A	CDADBA00
+13	pelagomonas;pelagomonas_clade_A	CDGDBG02
+17	pelagomonas;pelagomonas_clade_B
+15	pelagomonas;pelagomonas_clade_B	HqUncul4
+16	pelagomonas;pelagomonas_clade_B	UncB1098
+33	
+27	pelagococcus
+23	pelagococcus;
+21	pelagococcus;
+19	pelagococcus	PlbCAMNT
+20	pelagococcus	UncBa515
+22	pelagococcus	AyUncult
+26	pelagococcus;
+24	pelagococcus	CBaaSBaa
+25	pelagococcus	UncB3595
+32	pel_clade_A
+30	pel_clade_A;
+28	pel_clade_A	UncB3436
+29	pel_clade_A	UncB3490
+31	pel_clade_A	UncB3562
+41	pel_clade_B
+39	pel_clade_B;
+37	pel_clade_B;
+35	pel_clade_B	UncB3442
+36	pel_clade_B	UncB3497
+38	pel_clade_B	UdPNCGRS
+40	pel_clade_B	UncB3569
+51	aureococcus
+49	aureococcus;
+47	aureococcus;
+45	aureococcus;
+43	aureococcus	ArnCAMNT
+44	aureococcus	UncB2421
+46	aureococcus	AurAnoph
+48	aureococcus	CSTSAT00
+50	aureococcus	CNvOObvO
+59	pel_clade_C
+55	pel_clade_C;pel_clade_C1
+53	pel_clade_C;pel_clade_C1	CAADAA00
+54	pel_clade_C;pel_clade_C1	CDDDBD02
+58	pel_clade_C;pel_clade_C2
+56	pel_clade_C;pel_clade_C2	UncB2984
+57	pel_clade_C;pel_clade_C2	UncB2985
+101	
+95	
+79	
+69	sar_clade_A
+65	sar_clade_A;sar_clade_A1
+63	sar_clade_A;sar_clade_A1;
+61	sar_clade_A;sar_clade_A1	CpMCAMNT
+62	sar_clade_A;sar_clade_A1	UncB2191
+64	sar_clade_A;sar_clade_A1	UncEuk84
+68	sar_clade_A;sar_clade_A2
+66	sar_clade_A;sar_clade_A2	ArgCAMNT
+67	sar_clade_A;sar_clade_A2	ArrLagun
+78	sar_clade_B
+76	sar_clade_B;
+72	sar_clade_B;
+70	sar_clade_B	ChfNCGRS
+71	sar_clade_B	UncEuk89
+75	sar_clade_B;
+73	sar_clade_B	JfUncult
+74	sar_clade_B	UncB2882
+77	sar_clade_B	SrcNCGRS
+94	pel_clade_D
+88	pel_clade_D;pel_clade_D1
+86	pel_clade_D;pel_clade_D1;
+84	pel_clade_D;pel_clade_D1;
+82	pel_clade_D;pel_clade_D1;
+80	pel_clade_D;pel_clade_D1	UncEuka2
+81	pel_clade_D;pel_clade_D1	UncEuka7
+83	pel_clade_D;pel_clade_D1	HqUncul2
+85	pel_clade_D;pel_clade_D1	UncEuka3
+87	pel_clade_D;pel_clade_D1	ArPCAMNT
+93	pel_clade_D;pel_clade_D2
+91	pel_clade_D;pel_clade_D2;
+89	pel_clade_D;pel_clade_D2	UncB3767
+90	pel_clade_D;pel_clade_D2	UniMari8
+92	pel_clade_D;pel_clade_D2	UncEuk18
+100	pel_clade_E
+98	pel_clade_E;
+96	pel_clade_E	JxUncul3
+97	pel_clade_E	UncB3076
+99	pel_clade_E	JxUncul2
+129	pel_env
+125	pel_env;pel_env_A
+121	pel_env;pel_env_A;
+119	pel_env;pel_env_A;
+111	pel_env;pel_env_A;
+109	pel_env;pel_env_A;
+107	pel_env;pel_env_A;
+105	pel_env;pel_env_A;
+103	pel_env;pel_env_A	CBSSBaS0
+104	pel_env;pel_env_A	UncB1130
+106	pel_env;pel_env_A	HqUncul3
+108	pel_env;pel_env_A	CSOSAbAO
+110	pel_env;pel_env_A	CScSBa02
+118	pel_env;pel_env_A;
+114	pel_env;pel_env_A;
+112	pel_env;pel_env_A	CNQDBQ00
+113	pel_env;pel_env_A	CSGSAbzG
+117	pel_env;pel_env_A;
+115	pel_env;pel_env_A	UncB3553
+116	pel_env;pel_env_A	UncBa548
+120	pel_env;pel_env_A	CAgSAbBg
+124	pel_env;pel_env_A;
+122	pel_env;pel_env_A	CSESAbyE
+123	pel_env;pel_env_A	UncBa478
+128	pel_env;pel_env_B
+126	pel_env;pel_env_B	JxUncult
+127	pel_env;pel_env_B	UncB2384
