@@ -59,7 +59,7 @@ PhyloAssigner requires 3 reference files, that are part of each PhyloAssigner da
 Those 3 input files are provided. In addition, the user is required to provide an output directory. Optional arguments include the number of threads to use (for the alignment of query and reference sequences) and what placement algorithm to use. The default placement algorithm is PPLACER, so the user does not have to specify it.
 
 ```{bash}
-python code/pythonassigner_v0.9.py \
+python pythonassigner_v0.9.py \
     --out_dir example_output/ \
     --ref_align databases/Global_16S_refDB/ref.fasta \
     --ref_tree databases/Global_16S_refDB/ref_tree.txt \
