@@ -1,0 +1,27 @@
+name: pythonassigner
+channels:
+  - bioconda
+  - jmcmurray #for json 0.1.1
+  - conda-forge
+
+dependencies:
+  - libgcc-ng #dependency for most other tools
+  - python>=3.6 #code written for python 3
+  - phyml
+  - taxtastic
+  - raxml
+  - hmmer=3.0 #must be version 3.0 for --allcol setting
+  - epa-ng
+  - pplacer
+  - gappa
+  # python packages / package dependencies:
+  - biopython
+  - pandas
+  - argparse
+  - os
+  - pathlib
+  - json
+  - pyyaml #for taxtastic
+  - fastalite #for taxtastic
+  - jinja2 #for taxtastic
+  - dendropy
