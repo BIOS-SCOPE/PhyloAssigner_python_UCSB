@@ -61,7 +61,7 @@ Those 3 input files are provided. In addition, the user is required to provide a
 ```{bash}
 python pythonassigner_v0.9.py \
     --out_dir example_output/ \
-    --ref_align databases/Global_16S_refDB/ref.fasta \
+    --ref_align databases/Global_16S_refDB/ref.aln \
     --ref_tree databases/Global_16S_refDB/ref_tree.txt \
     --query_seqs your_ASVs.fasta \
     --mapping databases/Global_16S_refDB/edge.mapping \
