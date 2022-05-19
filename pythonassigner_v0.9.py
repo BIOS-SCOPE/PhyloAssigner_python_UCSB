@@ -59,7 +59,7 @@ args = parser.parse_args()  ## args will be a dictionary with the different inpu
 print("")  # "\n" whould insert 2 newlines
 print("PROVIDED ARGUMENTS:")
 print("-" * 65)
-print("PythonAssigner github binary folder:", args.bin_path)
+#print("PythonAssigner github binary folder:", args.bin_path)
 print("writing results to:", args.out_dir)  # prints the name of the output directory
 print("selected reference alignment:", args.ref_align)
 print("selected reference tree:", args.ref_tree)
@@ -200,19 +200,25 @@ print("taxtastic reference package for pplacer written to ", tree_model_refpack,
 ref_align_stk = os.path.join(wd, temp_dir, "ref_align.stk")
 # reformatted query sequences in stockholm format. Stored in temporary working directory
 
-to_stock_args = "bash " + \
-                os.path.join(args.bin_path, "fasta_to_stockholm.sh") + \
-                " -i " + os.path.join(wd, args.ref_align) + \
-                " -o " + ref_align_stk
+# to_stock_args = "bash " + \
+#                os.path.join(args.bin_path, "fasta_to_stockholm.sh") + \
+#                " -i " + os.path.join(wd, args.ref_align) + \
+#                " -o " + ref_align_stk
 
-print("preparing reference alignment for HMMER3 alignment as follows:", to_stock_args)
+# print("preparing reference alignment for HMMER3 alignment as follows:", to_stock_args)
+print("preparing reference alignment for HMMER3 alignment")
 
-try:
-    subprocess.check_call(to_stock_args, stdout=False, shell=True)
-    print("fasta_to_stockholm.sh created stockholm reference alignment file successfully.")
-except subprocess.CalledProcessError:
-    print("fasta_to_stockholm.sh did NOT finish successfully:\n", subprocess.CalledProcessError)
-    sys.exit(1)
+# try:
+#    subprocess.check_call(to_stock_args, stdout=False, shell=True)
+#    print("fasta_to_stockholm.sh created stockholm reference alignment file successfully.")
+# except subprocess.CalledProcessError:
+#    print("fasta_to_stockholm.sh did NOT finish successfully:\n", subprocess.CalledProcessError)
+#    sys.exit(1)
+
+alignment = AlignIO.read(open(os.path.join(wd, args.ref_align)), "fasta")
+# print("Alignment length %i" % alignment.get_alignment_length())
+AlignIO.write(alignment, ref_align_stk, "stockholm")
+
 
 print("reformatted reference alignment written to ", ref_align_stk)
 
@@ -261,8 +267,10 @@ AlignIO.write(alignment, hmmer_res_fasta, "fasta")
 ## run placement algorithm
 if args.placer == "pplacer":
     print("placeing sequences through pplacer, the default placement algorithm.")
-    runPPLACER(out_dir, args.bin_path, tree_model_refpack,
-               ref_tree=os.path.join(wd, args.ref_tree), hmmer_res_fasta=hmmer_res_fasta)
+    runPPLACER(out_dir,
+               tree_model_refpack,
+               ref_tree=os.path.join(wd, args.ref_tree),
+               hmmer_res_fasta=hmmer_res_fasta)
     placements = runPPLACER.placements
 
 elif args.placer == "epang":
