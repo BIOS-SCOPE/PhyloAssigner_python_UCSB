@@ -1,0 +1,296 @@
+0	
+2	
+1	Strepto_basal	Catmophy
+295	
+15	Strepto
+3	Strepto	Kflaccid
+14	Strepto;
+4	Strepto	Cvulgaris
+13	Strepto;
+5	Strepto	Smaxima
+12	Strepto;
+6	Strepto	Apedatum
+11	Strepto;
+7	Strepto	Pcontorta
+10	Strepto;
+8	Strepto	Athaliana
+9	Strepto	Cnucifera
+294	Chlorophyta
+24	Chlorophyta;PrasI
+16	Chlorophyta;PrasI	Ctetra
+23	Chlorophyta;PrasI;
+17	Chlorophyta;PrasI	Pamyli
+22	Chlorophyta;PrasI;
+18	Chlorophyta;PrasI	Pdisoma
+21	Chlorophyta;PrasI;
+19	Chlorophyta;PrasI	AF001659
+20	Chlorophyta;PrasI	Pparkeae
+293	Chlorophyta;
+31	Chlorophyta;PrasIII
+27	Chlorophyta;PrasIII;
+25	Chlorophyta;PrasIII	Npyrifo1
+26	Chlorophyta;PrasIII	Npyrifo2
+30	Chlorophyta;PrasIII;
+28	Chlorophyta;PrasIII	Noliva1
+29	Chlorophyta;PrasIII	Noliva2
+292	Chlorophyta;
+36	Chlorophyta;PrasVII_Psal
+32	Chlorophyta;PrasVII_Psal	AF454327
+35	Chlorophyta;PrasVII_Psal;
+33	Chlorophyta;PrasVII_Psal	Psalina1
+34	Chlorophyta;PrasVII_Psal	Psalina2
+291	Chlorophyta;
+53	Chlorophyta;Chlo_Trebou
+37	Chlorophyta;Chlo_Trebou	Cmirabi
+52	Chlorophyta;Chlo_Trebou;
+38	Chlorophyta;Chlo_Trebou	Osolita
+51	Chlorophyta;Chlo_Trebou;
+41	Chlorophyta;Chlo_Trebou;
+39	Chlorophyta;Chlo_Trebou	Ckessleri
+40	Chlorophyta;Chlo_Trebou	Cacicula
+50	Chlorophyta;Chlo_Trebou;
+44	Chlorophyta;Chlo_Trebou;
+42	Chlorophyta;Chlo_Trebou	Csoroki
+43	Chlorophyta;Chlo_Trebou	Cprotothe
+49	Chlorophyta;Chlo_Trebou;
+45	Chlorophyta;Chlo_Trebou	FM995183
+48	Chlorophyta;Chlo_Trebou;
+46	Chlorophyta;Chlo_Trebou	JF935206
+47	Chlorophyta;Chlo_Trebou	HM127257
+290	Chlorophyta;
+70	Chlorophyta;
+54	Chlorophyta	Cglaronen
+69	Chlorophyta;Chlo_Chlo
+55	Chlorophyta;Chlo_Chlo	Lterres
+68	Chlorophyta;Chlo_Chlo;
+56	Chlorophyta;Chlo_Chlo	Shelveti
+67	Chlorophyta;Chlo_Chlo;
+57	Chlorophyta;Chlo_Chlo	Sobliquus
+66	Chlorophyta;Chlo_Chlo;
+60	Chlorophyta;Chlo_Chlo;
+58	Chlorophyta;Chlo_Chlo	Creinhard
+59	Chlorophyta;Chlo_Chlo	Vcarteri
+65	Chlorophyta;Chlo_Chlo;
+61	Chlorophyta;Chlo_Chlo	Cmoewtsii
+64	Chlorophyta;Chlo_Chlo;
+62	Chlorophyta;Chlo_Chlo	Cleiostra
+63	Chlorophyta;Chlo_Chlo	Pobtusum
+289	Chlorophyta;
+73	Chlorophyta;Chlo_mix
+71	Chlorophyta;Chlo_mix	Pakinetum
+72	Chlorophyta;Chlo_mix	Oviridis
+288	Chlorophyta;
+84	Chlorophyta;
+78	Chlorophyta;PrasV
+74	Chlorophyta;PrasV	Pprovaso2
+77	Chlorophyta;PrasV;
+75	Chlorophyta;PrasV	Pmarina
+76	Chlorophyta;PrasV	Pprovaso1
+83	Chlorophyta;Chlo_Ped
+79	Chlorophyta;Chlo_Ped	Pminor
+82	Chlorophyta;Chlo_Ped;
+80	Chlorophyta;Chlo_Ped	Ptuber
+81	Chlorophyta;Chlo_Ped	PM20791
+287	Chlorophyta;
+85	Chlorophyta	Pterosp
+286	Chlorophyta;
+88	Chlorophyta;PrasVI_Pderma
+86	Chlorophyta;PrasVI_Pderma	Pcolonia
+87	Chlorophyta;PrasVI_Pderma	Psingul
+285	Chlorophyta;
+125	Chlorophyta;
+103	Chlorophyta;
+91	Chlorophyta;PrasVI_Pcoccus
+89	Chlorophyta;PrasVI_Pcoccus	Pcapsu1
+90	Chlorophyta;PrasVI_Pcoccus	Pcapsu2
+102	Chlorophyta;2ndaryPlastid
+94	Chlorophyta;2ndaryPlastid;
+92	Chlorophyta;2ndaryPlastid	Egenicu
+93	Chlorophyta;2ndaryPlastid	Tbernardi
+101	Chlorophyta;2ndaryPlastid;
+95	Chlorophyta;2ndaryPlastid	Eviridis
+100	Chlorophyta;2ndaryPlastid;Alveo_Green
+96	Chlorophyta;2ndaryPlastid;Alveo_Green	AbLepido
+99	Chlorophyta;2ndaryPlastid;Alveo_Green;
+97	Chlorophyta;2ndaryPlastid;Alveo_Green	AbLepid3
+98	Chlorophyta;2ndaryPlastid;Alveo_Green	AbLepid4
+124	Chlorophyta;PrasVIII
+106	Chlorophyta;PrasVIII;
+104	Chlorophyta;PrasVIII	AjrSAC00
+105	Chlorophyta;PrasVIII	BkvSBa22
+123	Chlorophyta;PrasVIII;
+107	Chlorophyta;PrasVIII	AiwYyy55
+122	Chlorophyta;PrasVIII;
+114	Chlorophyta;PrasVIII;
+108	Chlorophyta;PrasVIII	BdfSAI08
+113	Chlorophyta;PrasVIII;
+109	Chlorophyta;PrasVIII	HQ672204
+112	Chlorophyta;PrasVIII;
+110	Chlorophyta;PrasVIII	AwsHSbL0
+111	Chlorophyta;PrasVIII	AwfDBG08
+121	Chlorophyta;PrasVIII;
+115	Chlorophyta;PrasVIII	EU249975
+120	Chlorophyta;PrasVIII;
+116	Chlorophyta;PrasVIII	BfrSBH04
+119	Chlorophyta;PrasVIII;
+117	Chlorophyta;PrasVIII	AiqSBM08
+118	Chlorophyta;PrasVIII	AiwYyy58
+284	Chlorophyta;
+154	Chlorophyta;
+136	Chlorophyta;
+126	Chlorophyta	Cfragile
+135	Chlorophyta;PrasVII_CCMP1205
+127	Chlorophyta;PrasVII_CCMP1205	RCC998
+134	Chlorophyta;PrasVII_CCMP1205;
+128	Chlorophyta;PrasVII_CCMP1205	CCMP1205
+133	Chlorophyta;PrasVII_CCMP1205;
+129	Chlorophyta;PrasVII_CCMP1205	RCC1871
+132	Chlorophyta;PrasVII_CCMP1205;
+130	Chlorophyta;PrasVII_CCMP1205	RCC2335
+131	Chlorophyta;PrasVII_CCMP1205	CCMP1998
+153	Chlorophyta;
+141	Chlorophyta;Chlorara
+137	Chlorophyta;Chlorara	Bnatans
+140	Chlorophyta;Chlorara;
+138	Chlorophyta;Chlorara	CCMP240
+139	Chlorophyta;Chlorara	Creptans
+152	Chlorophyta;PrasIV
+146	Chlorophyta;PrasIV;
+142	Chlorophyta;PrasIV	Tchuii
+145	Chlorophyta;PrasIV;
+143	Chlorophyta;PrasIV	Tstriata1
+144	Chlorophyta;PrasIV	Tstriata2
+151	Chlorophyta;PrasIV;
+147	Chlorophyta;PrasIV	Tastigma
+150	Chlorophyta;PrasIV;
+148	Chlorophyta;PrasIV	TGSL018
+149	Chlorophyta;PrasIV	Sdubia
+283	Chlorophyta;PrasII
+163	Chlorophyta;PrasII;PrasII_Mono
+155	Chlorophyta;PrasII;PrasII_Mono	AY948021
+162	Chlorophyta;PrasII;PrasII_Mono;
+156	Chlorophyta;PrasII;PrasII_Mono	Mopistho
+161	Chlorophyta;PrasII;PrasII_Mono;
+157	Chlorophyta;PrasII;PrasII_Mono	MonoM0722
+160	Chlorophyta;PrasII;PrasII_Mono;
+158	Chlorophyta;PrasII;PrasII_Mono	MOKE_1
+159	Chlorophyta;PrasII;PrasII_Mono	Mminuta
+282	Chlorophyta;PrasII;
+174	Chlorophyta;PrasII;
+166	Chlorophyta;PrasII;PrasII_Crusto
+164	Chlorophyta;PrasII;PrasII_Crusto	Cstigma1
+165	Chlorophyta;PrasII;PrasII_Crusto	Cstigma2
+173	Chlorophyta;PrasII;PrasII_Doli
+169	Chlorophyta;PrasII;PrasII_Doli;
+167	Chlorophyta;PrasII;PrasII_Doli	Dtenuil2
+168	Chlorophyta;PrasII;PrasII_Doli	Dtenuil3
+172	Chlorophyta;PrasII;PrasII_Doli;
+170	Chlorophyta;PrasII;PrasII_Doli	Dtenuil1
+171	Chlorophyta;PrasII;PrasII_Doli	HQ166750
+281	Chlorophyta;PrasII;PrasII_Mamiello
+219	Chlorophyta;PrasII;PrasII_Mamiello;
+187	Chlorophyta;PrasII;PrasII_Mamiello;Bathy
+175	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	JX016448
+186	Chlorophyta;PrasII;PrasII_Mamiello;Bathy;
+176	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	FO082259
+185	Chlorophyta;PrasII;PrasII_Mamiello;Bathy;
+177	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	SHWN
+184	Chlorophyta;PrasII;PrasII_Mamiello;Bathy;
+178	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	RCC716
+183	Chlorophyta;PrasII;PrasII_Mamiello;Bathy;
+179	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	FJ826267
+182	Chlorophyta;PrasII;PrasII_Mamiello;Bathy;
+180	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	Bprasinos
+181	Chlorophyta;PrasII;PrasII_Mamiello;Bathy	U70715
+218	Chlorophyta;PrasII;PrasII_Mamiello;
+190	Chlorophyta;PrasII;PrasII_Mamiello;Omed
+188	Chlorophyta;PrasII;PrasII_Mamiello;Omed	Omedi1
+189	Chlorophyta;PrasII;PrasII_Mamiello;Omed	Omedi2
+217	Chlorophyta;PrasII;PrasII_Mamiello;
+201	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI
+191	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	OlCCMP2972
+200	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI;
+192	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	HQ242190
+199	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI;
+193	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	EU258745
+198	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI;
+194	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	AF001660
+197	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI;
+195	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	Oluci3
+196	Chlorophyta;PrasII;PrasII_Mamiello;OstreoI	EU394554
+216	Chlorophyta;PrasII;PrasII_Mamiello;
+204	Chlorophyta;PrasII;PrasII_Mamiello;Otauri
+202	Chlorophyta;PrasII;PrasII_Mamiello;Otauri	Otauri1
+203	Chlorophyta;PrasII;PrasII_Mamiello;Otauri	Otauri2
+215	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII
+205	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	JN166197
+214	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII;
+206	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	GU061481
+213	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII;
+207	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	GU061470
+212	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII;
+208	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	GU061473
+211	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII;
+209	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	ORCC809
+210	Chlorophyta;PrasII;PrasII_Mamiello;OstreoII	GU061828
+280	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic
+222	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mami
+220	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mami	Mgilva
+221	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mami	EU919841
+279	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;
+223	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic	RCC2288
+278	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic
+224	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic	Msquamata
+277	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;
+247	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;
+231	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1
+225	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1	KF596584
+230	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1;
+226	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1	JX017124
+229	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1;
+227	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1	CCMP1646
+228	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE1	M1681
+246	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;
+238	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;
+232	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic	AF406549
+237	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE2
+233	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE2	CCMP2099
+236	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE2;
+234	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE2	EU7950986
+235	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroE2	RCC2306
+245	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD
+241	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD;
+239	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD	CCMP1545
+240	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD	RCC1614
+244	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD;
+242	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD	JX016445
+243	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroD	FR744472
+276	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;
+250	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MantoA
+248	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MantoA	Mantarcti
+249	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MantoA	MCCMP1436
+275	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC
+251	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	EU268091
+274	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+256	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+252	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	GU119876
+255	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+253	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	CCMP1723
+254	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	RCC451
+273	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+257	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	EU268102
+272	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+258	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	RCC299
+271	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+259	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	JN233696
+270	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+262	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;
+260	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	CCMP494
+261	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC	RCC472
+269	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C
+263	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C	NEPCC29
+268	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C;
+264	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C	HQ242395
+267	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C;
+265	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C	EU394542
+266	Chlorophyta;PrasII;PrasII_Mamiello;PrasII_Mam_Mant_Mic;PrasII_Mant_Mic;PrasII_MicroABC;PrasII_MicroABC_C	CS222
