@@ -9,7 +9,7 @@ import shutil
 
 
 ## function to run pplacer
-def runPPLACER(out_dir, bin_path, tree_model_refpack, ref_tree, hmmer_res_fasta):
+def runPPLACER(out_dir, tree_model_refpack, ref_tree, hmmer_res_fasta):
     print("\n")  # adds 2 newlines
     print("starting phylogenetic placement of sequences using pplacer")
 

@@ -268,7 +268,7 @@ AlignIO.write(alignment, hmmer_res_fasta, "fasta")
 if args.placer == "pplacer":
     print("placeing sequences through pplacer, the default placement algorithm.")
     runPPLACER(out_dir,
-               tree_model_refpack,
+               tree_model_refpack=tree_model_refpack,
                ref_tree=os.path.join(wd, args.ref_tree),
                hmmer_res_fasta=hmmer_res_fasta)
     placements = runPPLACER.placements
