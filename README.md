@@ -16,6 +16,44 @@ PhyloAssigner handles alignment, reformatting, placement and output summary all 
 conda env create -f pythonassignler_linux.yml
 ```
 
+### command structure
+
+```{bash}
+usage: pythonassigner_v0.9.py [-h] -o OUT_DIR -r REF_ALIGN -t REF_TREE -q
+                              QUERY_SEQS -m MAPPING [-T THREADS] [-p PLACER]
+
+run PythonAssigner through the command-line. This is an updated version of PhyloAssigner, 
+    originally written in 2012 in perl. See: Vergin et al. 2013 supplementary information for more details; Rewritten 
+    in python3 by Fabian Wittmers 2021/2022 
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o OUT_DIR, --out_dir OUT_DIR
+                        output directory were result files should be stored
+  -r REF_ALIGN, --ref_align REF_ALIGN
+                        reference alignment file. Must contain the same
+                        sequence identifiers as in the reference tree
+  -t REF_TREE, --ref_tree REF_TREE
+                        reference tree file (newick formatted). Must contain
+                        the same sequence identifiers as in the reference
+                        alignment
+  -q QUERY_SEQS, --query_seqs QUERY_SEQS
+                        fasta file of sequences you want to place on reference
+                        tree
+  -m MAPPING, --mapping MAPPING
+                        taxonomy mapping file: edge number in first column +
+                        corresponding taxonomy in second column. If edge is a
+                        tip, then tip label in third.
+  -T THREADS, --threads THREADS
+                        specify the number of threads to use in parallel
+                        computation steps
+  -p PLACER, --placer PLACER
+                        specify which placement algorithm to use, choose
+                        between 'pplacer' or 'epang'. Alternatively, you can
+                        run 'compare' mode to compare both placement
+                        algorithms
+```
+
 ### currently available databases
 
 This git contains a collection of placement reference trees build by different members of the WordenLab, Luis Bolanos, and Kevin Vergin.
