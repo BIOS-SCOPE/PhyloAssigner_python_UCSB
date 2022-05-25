@@ -63,16 +63,18 @@ Currently available databases (and the paper in which they were published) compr
   + Vergin et al. 2013; "High-resolution SAR11 ecotype dynamics at the Bermuda Atlantic Time-series Study site by phylogenetic placement of pyrosequences"
 + SAR11
   + Bolanos et al. 2021; "Seasonality of the Microbial Community Composition in the North Atlantic"
+  + see: https://github.com/lbolanos32/NAAMES_2020
 + SAR202
   + Landy et al. 2017; "SAR202 Genomes from the Dark Ocean Predict Pathways for the Oxidation of Recalcitrant Dissolved Organic Matter"
+  + see: https://github.com/lbolanos32/NAAMES_2020
 + Chrysophyceae (16S plastid)
   + *Worden Lab; unpublished*
 + Dictyochophyceae (16S plastid)
-  + Choi et al. 2017; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
+  + Choi et al. 2021; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
 + Pelagophyceae (16S plastid)
-  + Choi et al. 2017; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
+  + Choi et al. 2021; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
 + Stramenopiles (16S plastid)
-  + Choi et al. 2017; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
+  + Choi et al. 2021; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
 + Cyanobacteria
   + Sudek et al. 2015; "Cyanobacterial distributions along a physico-chemical gradient in the Northeastern Pacific Ocean" 
 + Prochlorococcus
