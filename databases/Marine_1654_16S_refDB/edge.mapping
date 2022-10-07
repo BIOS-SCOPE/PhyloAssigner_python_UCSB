@@ -1,0 +1,3308 @@
+node	RDP.taxonomy
+0	Archaea;Euryarchaeota;Thermoplasmata;unclassified_Thermoplasmata;
+1	Archaea;Euryarchaeota;Methanococci;Methanococcales;Methanocaldococcaceae;Methanocaldococcus;
+2	Archaea;unclassified_Archaea;
+3	Bacteria;Thermotogae;Thermotogae;Petrotogales;Petrotogaceae;Defluviitoga;
+4	Bacteria;Actinobacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Olsenella;
+5	Bacteria;Actinobacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Collinsella;
+6	Actinobacteria
+7	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces;
+8	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Aeromicrobium;
+9	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Nocardioides;
+10	Actinobacteria
+11	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Verrucosispora;
+12	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Micromonospora;
+13	Actinobacteria
+14	Actinobacteria
+15	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;
+16	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;
+17	Actinobacteria
+18	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus;
+19	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Dietziaceae;Dietzia;
+20	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Turicella;
+21	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium;
+22	Actinobacteria
+23	1
+24	1
+25	Actinobacteria
+26	Actinobacteria
+27	Actinobacteria
+28	Actinobacteria
+29	Actinobacteria
+30	Actinobacteria
+31	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Intrasporangiaceae;Janibacter;
+32	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Promicromonosporaceae;Isoptericola;
+33	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Salinibacterium;
+34	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Frigoribacterium;
+35	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;unclassified_Microbacteriaceae;
+36	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Salinibacterium;
+37	Actinobacteria
+38	Actinobacteria
+39	Actinobacteria
+40	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leucobacter;
+41	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Microbacterium;
+42	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Microbacterium;
+43	Actinobacteria
+44	Actinobacteria
+45	Actinobacteria
+46	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Brachybacterium;
+47	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;
+48	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Actinomycineae;Actinomycetaceae;Actinomyces;
+49	Actinobacteria
+50	Actinobacteria
+51	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+52	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+53	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;unclassified_Micrococcaceae;
+54	Actinobacteria
+55	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+56	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+57	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+58	Actinobacteria
+59	Actinobacteria
+60	Actinobacteria
+61	Actinobacteria
+62	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+63	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+64	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter;
+65	Actinobacteria
+66	Actinobacteria
+67	Actinobacteria
+68	Actinobacteria
+69	Actinobacteria
+70	Actinobacteria
+71	Actinobacteria
+72	Bacteria;Actinobacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Kineosporiineae;Kineosporiaceae;Kineococcus;
+73	Actinobacteria
+74	Actinobacteria
+75	Actinobacteria
+76	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobidae;Acidimicrobiales;Acidimicrobineae;unclassified_Acidimicrobineae;
+77	Actinomarina
+78	Actinomarina
+79	Actinomarina
+80	
+81	
+82	Actinomarina
+83	Actinomarina
+84	Actinobacteria
+85	Actinobacteria
+86	Actinobacteria
+87	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobidae;Acidimicrobiales;Acidimicrobineae;Acidimicrobiaceae;Ferrimicrobium;
+88	Unclassified;
+89	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobidae;Acidimicrobiales;Acidimicrobineae;Iamiaceae;unclassified_Iamiaceae;
+90	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobidae;Acidimicrobiales;Acidimicrobineae;Iamiaceae;Aquihabitans;
+91	Actinobacteria
+92	Actinobacteria
+93	Actinobacteria
+94	Actinobacteria
+95	Actinobacteria
+96	
+97	Bacteria;Tenericutes;Mollicutes;Entomoplasmatales;Entomoplasmataceae;unclassified_Entomoplasmataceae;
+98	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;
+99	Mollicutes
+100	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified_Erysipelotrichaceae;
+101	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified_Erysipelotrichaceae;
+102	Erysipelotrichia
+103	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified_Erysipelotrichaceae;
+104	Erysipelotrichia
+105	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified_Erysipelotrichaceae;
+106	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;unclassified_Erysipelotrichaceae;
+107	Erysipelotrichia
+108	Erysipelotrichia
+109	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;
+110	Erysipelotrichia
+111	Erysipelotrichia
+112	Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae
+113	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillales_Incertae
+114	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+115	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Salinicoccus;
+116	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;
+117	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;
+118	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;
+119	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;
+120	Bacilli
+121	Bacilli
+122	Bacilli
+123	Bacilli
+124	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+125	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+126	Firmicutes
+127	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;
+128	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;
+129	Bacilli
+130	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;
+131	Bacilli
+132	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Pediococcus;
+133	Bacilli
+134	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;
+135	Bacilli
+136	Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Alkalibacterium;
+137	Bacilli
+138	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Vagococcus;
+139	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;
+140	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;
+141	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;
+142	Bacilli
+143	Bacilli
+144	Bacilli
+145	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;
+146	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;
+147	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;
+148	Bacilli
+149	Bacilli
+150	Bacilli
+151	Bacilli
+152	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+153	Firmicutes
+154	Firmicutes
+155	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Lysinibacillus;
+156	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;unclassified_Planococcaceae;
+157	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;unclassified_Planococcaceae;
+158	Bacilli
+159	Bacilli
+160	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Planomicrobium;
+161	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Planomicrobium;
+162	Bacilli
+163	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Planomicrobium;
+164	Bacilli
+165	Bacilli
+166	Bacilli
+167	Bacilli
+168	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+169	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+170	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae
+171	Firmicutes
+172	Firmicutes
+173	Firmicutes
+174	Firmicutes
+175	Firmicutes
+176	Firmicutes
+177	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter;
+178	
+179	
+180	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;unclassified_Acidaminococcaceae;
+181	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;
+182	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;
+183	Negativicutes
+184	Negativicutes
+185	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;
+186	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;
+187	Negativicutes
+188	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;
+189	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;
+190	Negativicutes
+191	Negativicutes
+192	Negativicutes
+193	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;unclassified_Acidaminococcaceae;
+194	Negativicutes
+195	Negativicutes
+196	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Clostridium
+197	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Cellulosilyticum;
+198	Clostridia
+199	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+200	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+201	Clostridia
+202	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiracea_incertae_sedis;
+203	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiracea_incertae_sedis;
+204	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+205	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+206	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiracea_incertae_sedis;
+207	Clostridia
+208	Clostridia
+209	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+210	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+211	Clostridia
+212	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+213	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+214	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+215	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+216	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+217	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+218	Clostridia
+219	Clostridia
+220	Clostridia
+221	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Acetatifactor;
+222	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Acetatifactor;
+223	Clostridia
+224	Clostridia
+225	Clostridia
+226	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+227	Clostridia
+228	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+229	Clostridia
+230	Clostridia
+231	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+232	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+233	Clostridia
+234	Clostridia
+235	Clostridia
+236	Clostridia
+237	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+238	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;
+239	Clostridia
+240	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+241	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+242	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+243	Clostridia
+244	Clostridia
+245	Clostridia
+246	Clostridia
+247	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+248	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+249	Clostridia
+250	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+251	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+252	Clostridia
+253	Clostridia
+254	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Fusicatenibacter;
+255	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+256	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+257	Clostridia
+258	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+259	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Clostridium
+260	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+261	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+262	Clostridia
+263	Clostridia
+264	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+265	Clostridia
+266	Clostridia
+267	Clostridia
+268	Clostridia
+269	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+270	Clostridia
+271	Clostridia
+272	Clostridia
+273	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+274	Clostridia
+275	Clostridia
+276	Clostridia
+277	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;
+278	Clostridia
+279	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiracea_incertae_sedis;
+280	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus;
+281	Clostridia
+282	Clostridia
+283	Clostridia
+284	Clostridia
+285	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+286	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;unclassified_Lachnospiraceae;
+287	Clostridia
+288	Clostridia
+289	Bacteria;Firmicutes;Clostridia;Clostridiales;
+290	R-7
+291	R-7
+292	R-7
+293	Bacteria
+294	Bacteria
+295	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;unclassified_Ruminococcaceae;
+296	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;unclassified_Ruminococcaceae;
+297	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;
+298	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;
+299	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;
+300	Clostridia
+301	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;
+302	Clostridia
+303	Clostridia
+304	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;unclassified_Ruminococcaceae;
+305	Clostridia
+306	Clostridia
+307	Clostridia
+308	Clostridia
+309	Clostridia
+310	Clostridia
+311	Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Garciella;
+312	Bacteria;unclassified_Bacteria;
+313	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae
+314	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae
+315	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae
+316	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae
+317	stricto;
+318	stricto;
+319	stricto;
+320	stricto;
+321	stricto;
+322	Bacteria;Firmicutes;Clostridia;unclassified_Clostridia;
+323	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_Incertae
+324	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_Incertae
+325	Bacteria
+326	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_Incertae
+327	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_Incertae
+328	Bacteria
+329	Bacteria
+330	Bacteria
+331	Bacteria
+332	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptoniphilaceae;Peptoniphilus;
+333	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia;
+334	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales_Incertae
+335	Bacteria;Firmicutes;Clostridia;Clostridiales;unclassified_Clostridiales;
+336	Clostridia
+337	Clostridia
+338	Bacteria;Firmicutes;Clostridia;Clostridiales;unclassified_Clostridiales;
+339	Clostridia
+340	Clostridia
+341	Clostridia
+342	
+343	
+344	
+345	
+346	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Cetobacterium;
+347	Bacteria;candidate
+348	Bacteria;candidate
+349	Bacteria;candidate
+350	Bacteria;candidate
+351	Bacteria
+352	Bacteria;candidate
+353	Bacteria
+354	Bacteria;candidate
+355	Bacteria;candidate
+356	Bacteria
+357	Bacteria
+358	Bacteria;candidate
+359	Bacteria
+360	Bacteria;candidate
+361	Bacteria;candidate
+362	Bacteria;candidate
+363	Bacteria
+364	Bacteria
+365	Bacteria
+366	Bacteria
+367	Bacteria
+368	
+369	Bacteria;Candidatus
+370	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+371	Bacteria;unclassified_Bacteria;
+372	IV
+373	PCC-7429
+374	PCC-7429
+375	Bacteria
+376	PCC-7429
+377	Bacteria
+378	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+379	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+380	Chloroplast
+381	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+382	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+383	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+384	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+385	Chloroplast
+386	Chloroplast
+387	Chloroplast
+388	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+389	Chloroplast
+390	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+391	Chloroplast
+392	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+393	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+394	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+395	Chloroplast
+396	Chloroplast
+397	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+398	Chloroplast
+399	Chloroplast
+400	
+401	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+402	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+403	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+404	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+405	Chloroplast
+406	Chloroplast
+407	Chloroplast
+408	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+409	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+410	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+411	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+412	Chloroplast
+413	Chloroplast
+414	Chloroplast
+415	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+416	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+417	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+418	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+419	Chloroplast
+420	Chloroplast
+421	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+422	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+423	Chloroplast
+424	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+425	Chloroplast
+426	Chloroplast
+427	Chloroplast
+428	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+429	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+430	Chloroplast
+431	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+432	Chloroplast
+433	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+434	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+435	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+436	Chloroplast
+437	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+438	Chloroplast
+439	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+440	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+441	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+442	Chloroplast
+443	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+444	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+445	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+446	Chloroplast
+447	Chloroplast
+448	Chloroplast
+449	Chloroplast
+450	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+451	Chloroplast
+452	Chloroplast
+453	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+454	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+455	Chloroplast
+456	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+457	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+458	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+459	Chloroplast
+460	Chloroplast
+461	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+462	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+463	Chloroplast
+464	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+465	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+466	Chloroplast
+467	Chloroplast
+468	Chloroplast
+469	Chloroplast
+470	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+471	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+472	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+473	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+474	Chloroplast
+475	Chloroplast
+476	Chloroplast
+477	Chloroplast
+478	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+479	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+480	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+481	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+482	Chloroplast
+483	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+484	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+485	Chloroplast
+486	Chloroplast
+487	Chloroplast
+488	Chloroplast
+489	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+490	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+491	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+492	Chloroplast
+493	Chloroplast
+494	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+495	Chloroplast
+496	Chloroplast
+497	Chloroplast
+498	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+499	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+500	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+501	Chloroplast
+502	Chloroplast
+503	Chloroplast
+504	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+505	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+506	Chloroplast
+507	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+508	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+509	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+510	Chloroplast
+511	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+512	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+513	Chloroplast
+514	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+515	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+516	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+517	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+518	Chloroplast
+519	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+520	Chloroplast
+521	Chloroplast
+522	Chloroplast
+523	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+524	Chloroplast
+525	Chloroplast
+526	Chloroplast
+527	Chloroplast
+528	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+529	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+530	Chloroplast
+531	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+532	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+533	Chloroplast
+534	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+535	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+536	Chloroplast
+537	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+538	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+539	Chloroplast
+540	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+541	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+542	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+543	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+544	Chloroplast
+545	Chloroplast
+546	Chloroplast
+547	Chloroplast
+548	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+549	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+550	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+551	Chloroplast
+552	Chloroplast
+553	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+554	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+555	Chloroplast
+556	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+557	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+558	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+559	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+560	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+561	Chloroplast
+562	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+563	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+564	Chloroplast
+565	Chloroplast
+566	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+567	Chloroplast
+568	Chloroplast
+569	Chloroplast
+570	Chloroplast
+571	Chloroplast
+572	Chloroplast
+573	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+574	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+575	Chloroplast
+576	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+577	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+578	Chloroplast
+579	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+580	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+581	Chloroplast
+582	Chloroplast
+583	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+584	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+585	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+586	Chloroplast
+587	Chloroplast
+588	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+589	Chloroplast
+590	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+591	Chloroplast
+592	Chloroplast
+593	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+594	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+595	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+596	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+597	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+598	Chloroplast
+599	Chloroplast
+600	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+601	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+602	Chloroplast
+603	Chloroplast
+604	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+605	Chloroplast
+606	Chloroplast
+607	Chloroplast
+608	Chloroplast
+609	Chloroplast
+610	Chloroplast
+611	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+612	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+613	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+614	Chloroplast
+615	Chloroplast
+616	Chloroplast
+617	Chloroplast
+618	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+619	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+620	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+621	Chloroplast
+622	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+623	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+624	Chloroplast
+625	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+626	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+627	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+628	Chloroplast
+629	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+630	Chloroplast
+631	Chloroplast
+632	Chloroplast
+633	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+634	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+635	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+636	Chloroplast
+637	Chloroplast
+638	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+639	Chloroplast
+640	Chloroplast
+641	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+642	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+643	Chloroplast
+644	Chloroplast
+645	Chloroplast
+646	Chloroplast
+647	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+648	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+649	Chloroplast
+650	Chloroplast
+651	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+652	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+653	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+654	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+655	Chloroplast
+656	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+657	Chloroplast
+658	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+659	Chloroplast
+660	Chloroplast
+661	Chloroplast
+662	Chloroplast
+663	Chloroplast
+664	Chloroplast
+665	Chloroplast
+666	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+667	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+668	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+669	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+670	Chloroplast
+671	Chloroplast
+672	Chloroplast
+673	Chloroplast
+674	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+675	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+676	Chloroplast
+677	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+678	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+679	Chloroplast
+680	Chloroplast
+681	Chloroplast
+682	Chloroplast
+683	Chloroplast
+684	Chloroplast
+685	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+686	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+687	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+688	Chloroplast
+689	Chloroplast
+690	Chloroplast
+691	Chloroplast
+692	Chloroplast
+693	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+694	Chloroplast
+695	Chloroplast
+696	Chloroplast
+697	Chloroplast
+698	Chloroplast
+699	Chloroplast
+700	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+701	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+702	Chloroplast
+703	Chloroplast
+704	Chloroplast
+705	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+706	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+707	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+708	Chloroplast
+709	Chloroplast
+710	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+711	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+712	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+713	Chloroplast
+714	Chloroplast
+715	Chloroplast
+716	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+717	Chloroplast
+718	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+719	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+720	Chloroplast
+721	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+722	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+723	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+724	Chloroplast
+725	Chloroplast
+726	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+727	Chloroplast
+728	Chloroplast
+729	Chloroplast
+730	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+731	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+732	Chloroplast
+733	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+734	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+735	Chloroplast
+736	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+737	Chloroplast
+738	Chloroplast
+739	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+740	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+741	Chloroplast
+742	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+743	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+744	Chloroplast
+745	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+746	Chloroplast
+747	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+748	Chloroplast
+749	Chloroplast
+750	Chloroplast
+751	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+752	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+753	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+754	Chloroplast
+755	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+756	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+757	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+758	Chloroplast
+759	Chloroplast
+760	Chloroplast
+761	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+762	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+763	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+764	Chloroplast
+765	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+766	Chloroplast
+767	Chloroplast
+768	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+769	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+770	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+771	Chloroplast
+772	Chloroplast
+773	Chloroplast
+774	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+775	Chloroplast
+776	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+777	Chloroplast
+778	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+779	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+780	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+781	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+782	Chloroplast
+783	Chloroplast
+784	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+785	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+786	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+787	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+788	Chloroplast
+789	Chloroplast
+790	Chloroplast
+791	Chloroplast
+792	Chloroplast
+793	Chloroplast
+794	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+795	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+796	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+797	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+798	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+799	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+800	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+801	Chloroplast
+802	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+803	Chloroplast
+804	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+805	Chloroplast
+806	Chloroplast
+807	Chloroplast
+808	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+809	Chloroplast
+810	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+811	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+812	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+813	Chloroplast
+814	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+815	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+816	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+817	Chloroplast
+818	Chloroplast
+819	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+820	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+821	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+822	Chloroplast
+823	Chloroplast
+824	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+825	Chloroplast
+826	Chloroplast
+827	Chloroplast
+828	Chloroplast
+829	Chloroplast
+830	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+831	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+832	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+833	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+834	Chloroplast
+835	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+836	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+837	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+838	Chloroplast
+839	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+840	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+841	Chloroplast
+842	Chloroplast
+843	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+844	Chloroplast
+845	Chloroplast
+846	Chloroplast
+847	Chloroplast
+848	Chloroplast
+849	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+850	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+851	Chloroplast
+852	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+853	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+854	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+855	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+856	Chloroplast
+857	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+858	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+859	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+860	Chloroplast
+861	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+862	Chloroplast
+863	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+864	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+865	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+866	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+867	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+868	Chloroplast
+869	Chloroplast
+870	Chloroplast
+871	Chloroplast
+872	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+873	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+874	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+875	Chloroplast
+876	Chloroplast
+877	Chloroplast
+878	Chloroplast
+879	Chloroplast
+880	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+881	Chloroplast
+882	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+883	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+884	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+885	Chloroplast
+886	Chloroplast
+887	Chloroplast
+888	Chloroplast
+889	Chloroplast
+890	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+891	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+892	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+893	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+894	Chloroplast
+895	Bacteria
+896	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+897	Chloroplast
+898	Chloroplast
+899	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+900	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+901	Chloroplast
+902	Chloroplast
+903	Chloroplast
+904	Chloroplast
+905	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+906	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+907	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+908	Chloroplast
+909	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+910	Chloroplast
+911	Chloroplast
+912	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+913	Chloroplast
+914	Chloroplast
+915	Chloroplast
+916	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+917	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+918	Chloroplast
+919	Chloroplast
+920	Chloroplast
+921	Chloroplast
+922	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+923	Chloroplast
+924	Chloroplast
+925	Chloroplast
+926	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+927	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+928	Chloroplast
+929	Chloroplast
+930	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+931	Chloroplast
+932	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+933	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+934	Chloroplast
+935	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+936	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+937	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+938	Chloroplast
+939	Chloroplast
+940	Chloroplast
+941	Chloroplast
+942	Chloroplast
+943	Chloroplast
+944	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+945	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+946	Chloroplast
+947	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+948	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+949	Chloroplast
+950	Chloroplast
+951	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+952	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+953	Chloroplast
+954	Chloroplast
+955	Chloroplast
+956	Chloroplast
+957	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+958	Chloroplast
+959	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+960	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+961	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+962	Chloroplast
+963	Chloroplast
+964	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+965	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+966	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+967	Chloroplast
+968	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+969	Chloroplast
+970	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+971	Chloroplast
+972	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+973	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+974	Chloroplast
+975	Chloroplast
+976	Chloroplast
+977	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+978	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+979	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+980	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+981	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+982	Chloroplast
+983	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+984	Chloroplast
+985	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+986	Chloroplast
+987	Chloroplast
+988	Chloroplast
+989	Chloroplast
+990	Chloroplast
+991	Chloroplast
+992	Chloroplast
+993	Chloroplast
+994	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+995	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+996	Chloroplast
+997	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+998	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+999	Chloroplast
+1000	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+1001	Chloroplast
+1002	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bacillariophyta;
+1003	Chloroplast
+1004	Chloroplast
+1005	Chloroplast
+1006	Chloroplast
+1007	Chloroplast
+1008	Chloroplast
+1009	Chloroplast
+1010	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+1011	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Bangiophyceae;
+1012	Chloroplast
+1013	Chloroplast
+1014	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1015	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1016	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1017	Chloroplast
+1018	Chloroplast
+1019	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1020	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1021	Chloroplast
+1022	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1023	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1024	Chloroplast
+1025	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1026	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1027	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1028	Chloroplast
+1029	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1030	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1031	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1032	Chloroplast
+1033	Chloroplast
+1034	Chloroplast
+1035	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1036	Chloroplast
+1037	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1038	Chloroplast
+1039	Chloroplast
+1040	Chloroplast
+1041	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1042	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1043	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1044	Chloroplast
+1045	Chloroplast
+1046	Chloroplast
+1047	Chloroplast
+1048	Chloroplast
+1049	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1050	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1051	Chloroplast
+1052	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1053	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1054	Chloroplast
+1055	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1056	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1057	Chloroplast
+1058	Chloroplast
+1059	Chloroplast
+1060	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1061	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1062	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1063	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1064	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1065	Chloroplast
+1066	Chloroplast
+1067	Chloroplast
+1068	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1069	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1070	Chloroplast
+1071	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1072	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1073	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1074	Chloroplast
+1075	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1076	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1077	Chloroplast
+1078	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1079	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1080	Chloroplast
+1081	Chloroplast
+1082	Chloroplast
+1083	Chloroplast
+1084	Chloroplast
+1085	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1086	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1087	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1088	Chloroplast
+1089	Chloroplast
+1090	Chloroplast
+1091	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1092	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1093	Chloroplast
+1094	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1095	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1096	Chloroplast
+1097	Chloroplast
+1098	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1099	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1100	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1101	Chloroplast
+1102	Chloroplast
+1103	Chloroplast
+1104	Chloroplast
+1105	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1106	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1107	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1108	Chloroplast
+1109	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1110	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1111	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1112	Chloroplast
+1113	Chloroplast
+1114	Chloroplast
+1115	Chloroplast
+1116	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;
+1117	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;
+1118	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;
+1119	Chloroplast
+1120	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;
+1121	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Streptophyta;
+1122	Chloroplast
+1123	Chloroplast
+1124	Chloroplast
+1125	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1126	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1127	Chloroplast
+1128	Chloroplast
+1129	Chloroplast
+1130	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1131	Chloroplast
+1132	Chloroplast
+1133	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1134	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1135	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1136	Chloroplast
+1137	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1138	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1139	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1140	Chloroplast
+1141	Chloroplast
+1142	Chloroplast
+1143	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1144	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1145	Chloroplast
+1146	Chloroplast
+1147	Chloroplast
+1148	Chloroplast
+1149	Chloroplast
+1150	Chloroplast
+1151	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1152	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1153	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1154	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1155	Chloroplast
+1156	Chloroplast
+1157	Chloroplast
+1158	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1159	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1160	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1161	Chloroplast
+1162	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1163	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1164	Chloroplast
+1165	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1166	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1167	Chloroplast
+1168	Chloroplast
+1169	Chloroplast
+1170	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1171	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1172	Chloroplast
+1173	Chloroplast
+1174	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorarachniophyceae;
+1175	Chloroplast
+1176	Chloroplast
+1177	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1178	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1179	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1180	Chloroplast
+1181	Chloroplast
+1182	Chloroplast
+1183	Chloroplast
+1184	Chloroplast
+1185	Chloroplast
+1186	Chloroplast
+1187	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1188	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1189	Chloroplast
+1190	Chloroplast
+1191	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Chlorophyta;
+1192	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1193	Chloroplast
+1194	Chloroplast
+1195	Chloroplast
+1196	Chloroplast
+1197	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1198	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1199	Chloroplast
+1200	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1201	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1202	Chloroplast
+1203	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1204	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1205	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1206	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;Cryptomonadaceae;
+1207	Chloroplast
+1208	Chloroplast
+1209	Chloroplast
+1210	Chloroplast
+1211	Chloroplast
+1212	Chloroplast
+1213	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1214	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1215	Bacteria;Cyanobacteria/Chloroplast;Chloroplast;Chloroplast;unclassified_Chloroplast;
+1216	Chloroplast
+1217	Chloroplast
+1218	Chloroplast
+1219	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1220	symbiont
+1221	symbiont
+1222	Bacteria
+1223	symbiont
+1224	Bacteria
+1225	symbiont
+1226	Bacteria
+1227	symbiont
+1228	Bacteria
+1229	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1230	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1231	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1232	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1233	Cyanobacteria
+1234	Cyanobacteria
+1235	Cyanobacteria
+1236	
+1237	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1238	PCC-8305
+1239	PCC-8305
+1240	
+1241	
+1242	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1243	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1244	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1245	Cyanobacteria
+1246	Cyanobacteria
+1247	PCC-7914
+1248	PCC-7914
+1249	Bacteria
+1250	Bacteria
+1251	Bacteria
+1252	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1253	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1254	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1255	Cyanobacteria
+1256	Cyanobacteria
+1257	PCC-7002
+1258	PCC-7002
+1259	PCC-7002
+1260	Bacteria
+1261	Bacteria
+1262	Bacteria
+1263	
+1264	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1265	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1266	
+1267	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1268	Cyanobacteria
+1269	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1270	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1271	
+1272	
+1273	
+1274	PCC-7319
+1275	PCC-7319
+1276	
+1277	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1278	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1279	
+1280	
+1281	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1282	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1283	
+1284	
+1285	
+1286	
+1287	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1288	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1289	
+1290	
+1291	
+1292	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1293	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1294	
+1295	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1296	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1297	
+1298	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1299	
+1300	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1301	Cyanobacteria/Chloroplast
+1302	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1303	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1304	Cyanobacteria/Chloroplast
+1305	
+1306	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1307	PCC-6303
+1308	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1309	I
+1310	PCC-7518
+1311	PCC-7518
+1312	I
+1313	I
+1314	PCC-6303
+1315	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1316	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1317	I
+1318	I
+1319	I
+1320	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1321	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1322	I
+1323	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1324	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1325	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1326	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1327	I
+1328	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1329	I
+1330	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1331	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1332	I
+1333	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1334	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1335	I
+1336	I
+1337	I
+1338	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1339	I
+1340	I
+1341	I
+1342	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1343	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1344	I
+1345	I
+1346	I
+1347	I
+1348	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1349	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1350	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1351	I
+1352	I
+1353	I
+1354	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1355	I
+1356	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1357	I
+1358	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1359	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1360	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1361	I
+1362	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1363	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1364	I
+1365	I
+1366	I
+1367	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1368	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1369	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1370	
+1371	
+1372	
+1373	
+1374	
+1375	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1376	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1377	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1378	
+1379	
+1380	
+1381	
+1382	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1383	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1384	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1385	CCAP
+1386	CCAP
+1387	XIII
+1388	XIII
+1389	XIII
+1390	XIII
+1391	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1392	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1393	XIII
+1394	IMS101
+1395	IMS101
+1396	
+1397	
+1398	
+1399	
+1400	
+1401	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1402	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1403	PCC-7104
+1404	PCC-7104
+1405	PCC-7104
+1406	IV
+1407	IV
+1408	PCC-7104
+1409	PCC-7104
+1410	IV
+1411	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1412	IV
+1413	IV
+1414	
+1415	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1416	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;Family
+1417	MIT9313
+1418	MIT9313
+1419	MIT9313
+1420	MIT9313
+1421	Bacteria
+1422	MIT9313
+1423	MIT9313
+1424	MIT9313
+1425	Bacteria
+1426	Bacteria
+1427	Bacteria
+1428	MIT9313
+1429	Bacteria
+1430	Bacteria
+1431	Bacteria
+1432	MIT9313
+1433	MIT9313
+1434	
+1435	CC9902
+1436	CC9902
+1437	CC9902
+1438	CC9902
+1439	Bacteria
+1440	CC9902
+1441	CC9902
+1442	Bacteria
+1443	CC9902
+1444	Bacteria
+1445	Bacteria
+1446	CC9902
+1447	Bacteria
+1448	Bacteria
+1449	Bacteria
+1450	CC9902
+1451	CC9902
+1452	Bacteria
+1453	Bacteria
+1454	
+1455	PCC-6307
+1456	PCC-6307
+1457	PCC-6307
+1458	Bacteria
+1459	PCC-6307
+1460	PCC-6307
+1461	PCC-6307
+1462	Bacteria
+1463	Bacteria
+1464	PCC-6307
+1465	PCC-6307
+1466	PCC-6307
+1467	PCC-6307
+1468	PCC-6307
+1469	Bacteria
+1470	Bacteria
+1471	Bacteria
+1472	PCC-6307
+1473	Bacteria
+1474	PCC-6307
+1475	PCC-6307
+1476	PCC-6307
+1477	Bacteria
+1478	PCC-6307
+1479	Bacteria
+1480	Bacteria
+1481	PCC-6307
+1482	Bacteria
+1483	PCC-6307
+1484	PCC-6307
+1485	Bacteria
+1486	Bacteria
+1487	Bacteria
+1488	Bacteria
+1489	Bacteria
+1490	Bacteria
+1491	Bacteria
+1492	PCC-6307
+1493	
+1494	
+1495	
+1496	
+1497	
+1498	
+1499	
+1500	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1501	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1502	Cyanobacteria
+1503	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1504	Bacteria;Cyanobacteria/Chloroplast;Cyanobacteria;unclassified_Cyanobacteria;
+1505	
+1506	
+1507	
+1508	
+1509	
+1510	
+1511	
+1512	
+1513	Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halanaerobium;
+1514	
+1515	
+1516	
+1517	
+1518	Bacteria;Sumerlaeota;Sumerlaeia;Sumerlaeales
+1519	Bacteria;unclassified_Bacteria;
+1520	Bacteria;unclassified_Bacteria;
+1521	
+1522	
+1523	Bacteria;Poribacteria;Poribacteria_genera_incertae_sedis;
+1524	Bacteria;Planctomycetes;Phycisphaerae;unclassified_Phycisphaerae;
+1525	Bacteria;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;Phycisphaera;
+1526	Bacteria;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;Phycisphaera;
+1527	Phycisphaerae
+1528	Bacteria;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae;Phycisphaera;
+1529	Phycisphaerae
+1530	
+1531	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;unclassified_Planctomycetaceae;
+1532	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;unclassified_Planctomycetaceae;
+1533	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;
+1534	Planctomycetaceae
+1535	Planctomycetaceae
+1536	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Blastopirellula;
+1537	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;unclassified_Planctomycetaceae;
+1538	Planctomycetaceae
+1539	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;unclassified_Planctomycetaceae;
+1540	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Rhodopirellula;
+1541	Planctomycetaceae
+1542	Planctomycetaceae
+1543	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gimesia;
+1544	Planctomycetaceae
+1545	Planctomycetaceae
+1546	Planctomycetaceae
+1547	Bacteria;Planctomycetes;Planctomycetia;unclassified_Planctomycetia;
+1548	Planctomycetaceae
+1549	Bacteria;Lentisphaerae;Lentisphaeria;Lentisphaerales;Lentisphaeraceae;Lentisphaera;
+1550	Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Pelagicoccus;
+1551	Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Pelagicoccus;
+1552	
+1553	Bacteria;Verrucomicrobia;Spartobacteria;unclassified_Spartobacteria;
+1554	Bacteria;Verrucomicrobia;Spartobacteria;Spartobacteria_genera_incertae_sedis;
+1555	
+1556	Bacteria;Verrucomicrobia;Subdivision3;Subdivision3_genera_incertae_sedis;
+1557	Bacteria;Verrucomicrobia;Subdivision3;Subdivision3_genera_incertae_sedis;
+1558	Bacteria;Verrucomicrobia;Subdivision3;Subdivision3_genera_incertae_sedis;
+1559	
+1560	Bacteria;Verrucomicrobia;Subdivision3;Subdivision3_genera_incertae_sedis;
+1561	
+1562	Bacteria;Verrucomicrobia;Subdivision3;Subdivision3_genera_incertae_sedis;
+1563	
+1564	
+1565	Bacteria;Verrucomicrobia;
+1566	
+1567	
+1568	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Akkermansia;
+1569	
+1570	
+1571	
+1572	
+1573	
+1574	
+1575	Bacteria;Acidobacteria;Acidobacteria_Gp22;Gp22;
+1576	6
+1577	6
+1578	
+1579	Bacteria;Acidobacteria;Acidobacteria_Gp3;Gp3;
+1580	(Subgroup
+1581	(Subgroup
+1582	(Subgroup
+1583	
+1584	
+1585	
+1586	Bacteria;Acidobacteria;Acidobacteria_Gp1;Gp1;
+1587	Bacteria;Acidobacteria;Acidobacteria_Gp1;Acidobacterium;
+1588	
+1589	Bacteria;Acidobacteria;Acidobacteria_Gp2;Gp2;
+1590	
+1591	
+1592	
+1593	
+1594	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;
+1595	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;
+1596	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;
+1597	Nitrospira
+1598	
+1599	Bacteria;candidate
+1600	Bacteria;candidate
+1601	
+1602	
+1603	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;unclassified_Acidaminococcaceae;
+1604	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;
+1605	
+1606	
+1607	
+1608	
+1609	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;unclassified_Campylobacterales;
+1610	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;unclassified_Campylobacterales;
+1611	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;unclassified_Campylobacterales;
+1612	Epsilonproteobacteria
+1613	Epsilonproteobacteria
+1614	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;unclassified_Campylobacterales;
+1615	
+1616	Bacteria;Proteobacteria;Epsilonproteobacteria;
+1617	
+1618	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1619	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1620	
+1621	clade(Marine
+1622	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1623	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1624	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1625	clade(Marine
+1626	clade(Marine
+1627	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1628	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1629	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1630	clade(Marine
+1631	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1632	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1633	clade(Marine
+1634	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1635	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1636	clade(Marine
+1637	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1638	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1639	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1640	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1641	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1642	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1643	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1644	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1645	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1646	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1647	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1648	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1649	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1650	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1651	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1652	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1653	clade(Marine
+1654	clade(Marine
+1655	clade(Marine
+1656	clade(Marine
+1657	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1658	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1659	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1660	clade(Marine
+1661	clade(Marine
+1662	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1663	clade(Marine
+1664	clade(Marine
+1665	clade(Marine
+1666	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1667	clade(Marine
+1668	clade(Marine
+1669	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1670	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1671	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1672	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1673	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1674	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1675	clade(Marine
+1676	clade(Marine
+1677	clade(Marine
+1678	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1679	clade(Marine
+1680	clade(Marine
+1681	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1682	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1683	clade(Marine
+1684	clade(Marine
+1685	clade(Marine
+1686	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1687	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1688	clade(Marine
+1689	clade(Marine
+1690	clade(Marine
+1691	clade(Marine
+1692	clade(Marine
+1693	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1694	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1695	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1696	clade(Marine
+1697	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1698	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1699	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1700	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1701	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1702	clade(Marine
+1703	clade(Marine
+1704	clade(Marine
+1705	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1706	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1707	clade(Marine
+1708	clade(Marine
+1709	clade(Marine
+1710	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1711	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1712	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1713	clade(Marine
+1714	clade(Marine
+1715	clade(Marine
+1716	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1717	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1718	clade(Marine
+1719	clade(Marine
+1720	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1721	clade(Marine
+1722	clade(Marine
+1723	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1724	clade(Marine
+1725	clade(Marine
+1726	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1727	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1728	clade(Marine
+1729	clade(Marine
+1730	clade(Marine
+1731	clade(Marine
+1732	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1733	clade(Marine
+1734	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1735	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1736	clade(Marine
+1737	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1738	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1739	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1740	clade(Marine
+1741	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1742	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1743	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1744	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+1745	
+1746	
+1747	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Labrenzia;
+1748	Bacteria;
+1749	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsia;
+1750	
+1751	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospiralles;AEGEAN-169
+1752	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospiralles;AEGEAN-169
+1753	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospiralles;AEGEAN-169
+1754	
+1755	
+1756	IV
+1757	I
+1758	Ib
+1759	Ib
+1760	Ib
+1761	
+1762	
+1763	I
+1764	
+1765	Ia
+1766	Ia
+1767	Ia
+1768	Ia
+1769	Ia
+1770	Ia
+1771	Ia
+1772	
+1773	Ia
+1774	
+1775	Ia
+1776	Ia
+1777	Ia
+1778	
+1779	
+1780	
+1781	
+1782	Ia
+1783	Ia
+1784	Ia
+1785	
+1786	
+1787	Ia
+1788	
+1789	
+1790	
+1791	
+1792	Ia
+1793	Ia
+1794	
+1795	
+1796	
+1797	Ia
+1798	Ia
+1799	
+1800	
+1801	
+1802	
+1803	
+1804	II
+1805	II
+1806	II
+1807	
+1808	
+1809	II
+1810	II
+1811	II
+1812	II
+1813	II
+1814	
+1815	II
+1816	II
+1817	
+1818	II
+1819	II
+1820	
+1821	II
+1822	
+1823	
+1824	
+1825	
+1826	
+1827	
+1828	
+1829	II
+1830	II
+1831	
+1832	
+1833	
+1834	III
+1835	III
+1836	III
+1837	III
+1838	III
+1839	
+1840	
+1841	
+1842	III
+1843	III
+1844	
+1845	III
+1846	III
+1847	III
+1848	
+1849	III
+1850	III
+1851	
+1852	
+1853	
+1854	
+1855	
+1856	
+1857	
+1858	
+1859	
+1860	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+1861	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+1862	Alphaproteobacteria
+1863	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+1864	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Methyloceanibacter;
+1865	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+1866	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+1867	Alphaproteobacteria
+1868	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+1869	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+1870	
+1871	
+1872	
+1873	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1874	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1875	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1876	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1877	Alphaproteobacteria
+1878	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1879	Alphaproteobacteria
+1880	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1881	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;
+1882	
+1883	
+1884	
+1885	
+1886	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Stappia;
+1887	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Labrenzia;
+1888	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pseudovibrio;
+1889	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pseudovibrio;
+1890	
+1891	
+1892	
+1893	
+1894	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+1895	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+1896	
+1897	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hirschia;
+1898	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hirschia;
+1899	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;
+1900	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;unclassified_Hyphomonadaceae;
+1901	Hyphomonadaceae
+1902	Hyphomonadaceae
+1903	Hyphomonadaceae
+1904	Alphaproteobacteria
+1905	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Oceanicaulis;
+1906	Hyphomonadaceae
+1907	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Woodsholea;
+1908	
+1909	
+1910	Bacteria;Proteobacteria;Alphaproteobacteria;Parvularculales;Parvularculaceae;Parvularcula;
+1911	
+1912	
+1913	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1914	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter;
+1915	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;
+1916	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1917	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;
+1918	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;
+1919	Alphaproteobacteria
+1920	Alphaproteobacteria
+1921	Alphaproteobacteria
+1922	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;
+1923	Rhodobacteraceae
+1924	Rhodobacteraceae
+1925	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Jhaorihella;
+1926	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maribius;
+1927	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1928	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1929	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1930	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1931	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1932	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1933	Alphaproteobacteria
+1934	Alphaproteobacteria
+1935	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1936	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;unclassified_Rhodobacteraceae;
+1937	Rhodobacteraceae
+1938	Rhodobacteraceae
+1939	Rhodobacteraceae
+1940	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;
+1941	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1942	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1943	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1944	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1945	Alphaproteobacteria
+1946	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1947	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;
+1948	Rhodobacteraceae
+1949	Rhodobacteraceae
+1950	Rhodobacteraceae
+1951	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Loktanella;
+1952	Rhodobacteraceae
+1953	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;
+1954	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pelagibaca;
+1955	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Marinovum;
+1956	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pelagibaca;
+1957	Rhodobacteraceae
+1958	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thalassobius;
+1959	Alphaproteobacteria
+1960	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thalassobius;
+1961	Alphaproteobacteria
+1962	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thalassobius;
+1963	Alphaproteobacteria
+1964	Alphaproteobacteria
+1965	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thalassobius;
+1966	Alphaproteobacteria
+1967	Alphaproteobacteria
+1968	Rhodobacteraceae
+1969	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;
+1970	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;
+1971	Rhodobacteraceae
+1972	Rhodobacteraceae
+1973	Rhodobacteraceae
+1974	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1975	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1976	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1977	Alphaproteobacteria
+1978	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1979	Alphaproteobacteria
+1980	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1981	Alphaproteobacteria
+1982	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ruegeria;
+1983	Alphaproteobacteria
+1984	Alphaproteobacteria
+1985	Rhodobacteraceae
+1986	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1987	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1988	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1989	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1990	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1991	Alphaproteobacteria
+1992	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Maritimibacter;
+1993	Alphaproteobacteria
+1994	Rhodobacteraceae
+1995	Rhodobacteraceae
+1996	Rhodobacteraceae
+1997	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;
+1998	Rhodobacteraceae
+1999	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;
+2000	Rhodobacteraceae
+2001	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;
+2002	Rhodobacteraceae
+2003	Rhodobacteraceae
+2004	Rhodobacteraceae
+2005	Rhodobacteraceae
+2006	Rhodobacteraceae
+2007	Rhodobacteraceae
+2008	Rhodobacteraceae
+2009	Rhodobacteraceae
+2010	Rhodobacteraceae
+2011	Rhodobacteraceae
+2012	Rhodobacteraceae
+2013	Rhodobacteraceae
+2014	Rhodobacteraceae
+2015	
+2016	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Rhodobium;
+2017	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Afifella;
+2018	Alphaproteobacteria
+2019	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;
+2020	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;
+2021	Alphaproteobacteria
+2022	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;
+2023	
+2024	
+2025	
+2026	
+2027	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Aurantimonadaceae;Aurantimonas;
+2028	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;
+2029	
+2030	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;
+2031	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;
+2032	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Hoeflea;
+2033	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Hoeflea;
+2034	
+2035	
+2036	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;
+2037	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Shinella;
+2038	
+2039	
+2040	
+2041	
+2042	
+2043	
+2044	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+2045	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium;
+2046	Alphaproteobacteria
+2047	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;unclassified_Hyphomicrobiaceae;
+2048	Bacteria;Proteobacteria;Alphaproteobacteria;Alphaproteobacteria_incertae_sedis;Rhizomicrobium;
+2049	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+2050	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+2051	
+2052	
+2053	
+2054	
+2055	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;
+2056	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;
+2057	Alphaproteobacteria
+2058	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;
+2059	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;
+2060	Alphaproteobacteria
+2061	
+2062	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+2063	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales_incertae_sedis;Alsobacter;
+2064	
+2065	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;unclassified_Rhizobiales;
+2066	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+2067	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+2068	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+2069	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;
+2070	
+2071	
+2072	
+2073	
+2074	
+2075	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Microvirga;
+2076	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2077	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2078	Alphaproteobacteria
+2079	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2080	Alphaproteobacteria
+2081	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2082	Alphaproteobacteria
+2083	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2084	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;
+2085	
+2086	
+2087	
+2088	
+2089	
+2090	
+2091	
+2092	
+2093	
+2094	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetovibrio;
+2095	Bacteria;Proteobacteria;Alphaproteobacteria;Kiloniellales;Kiloniellaceae;Kiloniella;
+2096	
+2097	
+2098	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;unclassified_Rhodospirillaceae;
+2099	
+2100	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+2101	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;unclassified_Rhodospirillaceae;
+2102	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;unclassified_Rhodospirillaceae;
+2103	
+2104	
+2105	
+2106	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Tistrella;
+2107	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Bombella;
+2108	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas;
+2109	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Rubritepida;
+2110	
+2111	
+2112	
+2113	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;unclassified_Rhodospirillales;
+2114	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;unclassified_Rhodospirillaceae;
+2115	Rhodospirillales
+2116	Rhodospirillales
+2117	clade
+2118	clade
+2119	clade
+2120	Proteobacteria
+2121	Proteobacteria
+2122	clade
+2123	clade
+2124	Proteobacteria
+2125	clade
+2126	Proteobacteria
+2127	Proteobacteria
+2128	clade
+2129	clade
+2130	clade
+2131	Proteobacteria
+2132	Proteobacteria
+2133	clade
+2134	clade
+2135	Proteobacteria
+2136	Proteobacteria
+2137	clade
+2138	clade
+2139	clade
+2140	Proteobacteria
+2141	Proteobacteria
+2142	Proteobacteria
+2143	clade
+2144	clade
+2145	Proteobacteria
+2146	clade
+2147	clade
+2148	clade
+2149	Proteobacteria
+2150	Proteobacteria
+2151	Proteobacteria
+2152	clade
+2153	clade
+2154	Proteobacteria
+2155	clade
+2156	clade
+2157	clade
+2158	clade
+2159	Proteobacteria
+2160	Proteobacteria
+2161	Proteobacteria
+2162	Proteobacteria
+2163	Proteobacteria
+2164	Proteobacteria
+2165	Proteobacteria
+2166	clade
+2167	clade
+2168	clade
+2169	Proteobacteria
+2170	Proteobacteria
+2171	Proteobacteria
+2172	clade
+2173	clade
+2174	clade
+2175	Proteobacteria
+2176	clade
+2177	Proteobacteria
+2178	Proteobacteria
+2179	clade
+2180	Proteobacteria
+2181	clade
+2182	clade
+2183	clade
+2184	clade
+2185	Proteobacteria
+2186	Proteobacteria
+2187	Proteobacteria
+2188	clade
+2189	Proteobacteria
+2190	Proteobacteria
+2191	clade
+2192	clade
+2193	Proteobacteria
+2194	Proteobacteria
+2195	
+2196	Bacteria;Proteobacteria;Alphaproteobacteria;unclassified_Alphaproteobacteria;
+2197	Alphaproteobacteria
+2198	Alphaproteobacteria
+2199	Alphaproteobacteria
+2200	Alphaproteobacteria
+2201	
+2202	
+2203	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2204	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2205	Gammaproteobacteria
+2206	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2207	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;unclassified_Chromatiales;
+2208	
+2209	
+2210	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2211	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2212	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;unclassified_Chromatiaceae;
+2213	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Thiocapsa;
+2214	
+2215	
+2216	Bacteria;Proteobacteria;Gammaproteobacteria;
+2217	Bacteria;Proteobacteria;Gammaproteobacteria;
+2218	clade
+2219	clade
+2220	
+2221	
+2222	clade
+2223	clade
+2224	clade
+2225	Proteobacteria
+2226	Proteobacteria
+2227	clade
+2228	
+2229	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Porticoccus;
+2230	
+2231	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2232	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadales_incertae_sedis;Dasania;
+2233	
+2234	Unclassified;
+2235	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;unclassified_Gammaproteobacteria_incertae_sedis;
+2236	
+2237	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Congregibacter;
+2238	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Congregibacter;
+2239	
+2240	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Halioglobus;
+2241	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;Halioglobus;
+2242	
+2243	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2244	
+2245	
+2246	
+2247	
+2248	
+2249	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;unclassified_Oceanospirillales;
+2250	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;unclassified_Oceanospirillales;
+2251	Gammaproteobacteria
+2252	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;unclassified_Oceanospirillales;
+2253	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;unclassified_Oceanospirillales;
+2254	Gammaproteobacteria
+2255	Gammaproteobacteria
+2256	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;unclassified_Oceanospirillales;
+2257	
+2258	clade
+2259	clade
+2260	clade
+2261	
+2262	
+2263	
+2264	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2265	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2266	
+2267	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;unclassified_Gammaproteobacteria_incertae_sedis;
+2268	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2269	
+2270	
+2271	
+2272	
+2273	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax;
+2274	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax;
+2275	Gammaproteobacteria
+2276	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax;
+2277	Gammaproteobacteria
+2278	
+2279	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinobacterium;
+2280	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Salinicola;
+2281	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;
+2282	
+2283	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Bermanella;
+2284	
+2285	
+2286	
+2287	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;unclassified_Gammaproteobacteria_incertae_sedis;
+2288	Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria_incertae_sedis;unclassified_Gammaproteobacteria_incertae_sedis;
+2289	
+2290	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2291	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2292	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2293	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2294	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2295	Gammaproteobacteria
+2296	Gammaproteobacteria
+2297	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2298	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2299	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2300	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2301	Gammaproteobacteria
+2302	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2303	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2304	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2305	Gammaproteobacteria
+2306	Gammaproteobacteria
+2307	Gammaproteobacteria
+2308	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2309	Gammaproteobacteria
+2310	Gammaproteobacteria
+2311	Gammaproteobacteria
+2312	Gammaproteobacteria
+2313	Gammaproteobacteria
+2314	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2315	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2316	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2317	Gammaproteobacteria
+2318	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2319	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2320	Gammaproteobacteria
+2321	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;
+2322	Gammaproteobacteria
+2323	Gammaproteobacteria
+2324	Gammaproteobacteria
+2325	Gammaproteobacteria
+2326	
+2327	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter;
+2328	
+2329	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Hahellaceae;Zooshikella;
+2330	
+2331	
+2332	
+2333	
+2334	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Piscirickettsia;
+2335	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2336	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichales_incertae_sedis;Fangia;
+2337	
+2338	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;unclassified_Coxiellaceae;
+2339	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;unclassified_Coxiellaceae;
+2340	
+2341	
+2342	
+2343	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Sinobacteraceae;Solimonas;
+2344	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Acidiferrobacter;
+2345	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2346	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Sinobacteraceae;Povalibacter;
+2347	
+2348	
+2349	
+2350	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;unclassified_Rhodocyclaceae;
+2351	Bacteria;Proteobacteria;Betaproteobacteria;
+2352	Bacteria;Proteobacteria;Betaproteobacteria;
+2353	Bacteria;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae;Hydrogenophilus;
+2354	Hydrogenophilaceae
+2355	Bacteria;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae;Thiobacillus;
+2356	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azonexus;
+2357	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Dechloromonas;
+2358	Rhodocyclaceae
+2359	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;
+2360	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;
+2361	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;
+2362	
+2363	
+2364	
+2365	Bacteria;Proteobacteria;Betaproteobacteria;Gallionellales;Gallionellaceae;Sideroxydans;
+2366	
+2367	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;unclassified_Rhodocyclaceae;
+2368	
+2369	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;
+2370	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;
+2371	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium;
+2372	Oxalobacteraceae
+2373	Oxalobacteraceae
+2374	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herbaspirillum;
+2375	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;
+2376	
+2377	
+2378	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;
+2379	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;
+2380	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;
+2381	
+2382	
+2383	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;
+2384	
+2385	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;
+2386	
+2387	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Alcaligenes;
+2388	
+2389	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Sutterellaceae;Sutterella;
+2390	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;unclassified_Burkholderiales;
+2391	
+2392	
+2393	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter;
+2394	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;unclassified_Burkholderiales;
+2395	
+2396	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;
+2397	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;
+2398	
+2399	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus;
+2400	
+2401	
+2402	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2403	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2404	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2405	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2406	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2407	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2408	
+2409	
+2410	
+2411	
+2412	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2413	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;
+2414	
+2415	
+2416	
+2417	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Pelomonas;
+2418	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Methylibium;
+2419	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;
+2420	
+2421	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;
+2422	
+2423	
+2424	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;unclassified_Comamonadaceae;
+2425	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2426	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2427	Bacteria;Proteobacteria;Betaproteobacteria;
+2428	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2429	
+2430	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2431	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2432	
+2433	
+2434	
+2435	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2436	
+2437	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2438	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2439	
+2440	
+2441	
+2442	
+2443	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;
+2444	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;
+2445	
+2446	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;
+2447	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;
+2448	
+2449	
+2450	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;
+2451	
+2452	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;
+2453	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Rhodoferax;
+2454	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;
+2455	
+2456	
+2457	
+2458	
+2459	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;
+2460	
+2461	
+2462	
+2463	
+2464	
+2465	
+2466	Bacteria;Proteobacteria;Betaproteobacteria;Ferritrophicales;Ferritrophicaceae;Ferritrophicum;
+2467	clade
+2468	clade
+2469	Proteobacteria
+2470	clade
+2471	Proteobacteria
+2472	
+2473	
+2474	
+2475	
+2476	
+2477	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Deefgea;
+2478	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Eikenella;
+2479	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;unclassified_Neisseriaceae;
+2480	
+2481	
+2482	
+2483	
+2484	
+2485	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2486	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2487	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2488	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;unclassified_Xanthomonadaceae;
+2489	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2490	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2491	Gammaproteobacteria
+2492	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2493	Gammaproteobacteria
+2494	Gammaproteobacteria
+2495	Gammaproteobacteria
+2496	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;
+2497	Gammaproteobacteria
+2498	Gammaproteobacteria
+2499	Gammaproteobacteria
+2500	Gammaproteobacteria
+2501	
+2502	Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;Acidithiobacillaceae;Acidithiobacillus;
+2503	Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;Acidithiobacillaceae;Acidithiobacillus;
+2504	
+2505	
+2506	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2507	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2508	Gammaproteobacteria
+2509	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2510	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2511	Gammaproteobacteria
+2512	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2513	Gammaproteobacteria
+2514	Gammaproteobacteria
+2515	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2516	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2517	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;
+2518	Gammaproteobacteria
+2519	Gammaproteobacteria
+2520	Moraxellaceae
+2521	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;unclassified_Moraxellaceae;
+2522	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2523	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2524	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2525	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2526	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2527	Gammaproteobacteria
+2528	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2529	Gammaproteobacteria
+2530	Gammaproteobacteria
+2531	Gammaproteobacteria
+2532	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2533	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2534	Gammaproteobacteria
+2535	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2536	Gammaproteobacteria
+2537	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2538	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2539	Gammaproteobacteria
+2540	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2541	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2542	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;
+2543	Gammaproteobacteria
+2544	Gammaproteobacteria
+2545	Gammaproteobacteria
+2546	Gammaproteobacteria
+2547	Gammaproteobacteria
+2548	Gammaproteobacteria
+2549	Gammaproteobacteria
+2550	
+2551	
+2552	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2553	Gammaproteobacteria
+2554	Gammaproteobacteria
+2555	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2556	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2557	Bacteria;Proteobacteria;Gammaproteobacteria;unclassified_Gammaproteobacteria;
+2558	
+2559	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;unclassified_Chromatiales;
+2560	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;unclassified_Chromatiales;
+2561	
+2562	
+2563	
+2564	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Methylophaga;
+2565	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Methylophaga;
+2566	
+2567	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Aestuariibacter;
+2568	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2569	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2570	Gammaproteobacteria
+2571	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2572	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2573	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2574	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2575	Gammaproteobacteria
+2576	Gammaproteobacteria
+2577	Gammaproteobacteria
+2578	Gammaproteobacteria
+2579	Gammaproteobacteria
+2580	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2581	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2582	Gammaproteobacteria
+2583	Gammaproteobacteria
+2584	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2585	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2586	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;
+2587	Gammaproteobacteria
+2588	
+2589	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Ferrimonadaceae;Paraferrimonas;
+2590	Bacteria;Proteobacteria;Gammaproteobacteria;
+2591	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;
+2592	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;
+2593	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;
+2594	
+2595	
+2596	
+2597	
+2598	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Moritellaceae;Moritella;
+2599	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2600	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2601	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2602	Gammaproteobacteria
+2603	Gammaproteobacteria
+2604	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2605	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2606	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2607	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2608	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2609	Gammaproteobacteria
+2610	Gammaproteobacteria
+2611	Gammaproteobacteria
+2612	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;
+2613	Gammaproteobacteria
+2614	
+2615	
+2616	
+2617	
+2618	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Psychromonadaceae;Psychromonas;
+2619	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;
+2620	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina;
+2621	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina;
+2622	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina;
+2623	
+2624	
+2625	
+2626	
+2627	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;unclassified_Alteromonadales;
+2628	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2629	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2630	
+2631	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2632	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2633	
+2634	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2635	
+2636	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;
+2637	
+2638	
+2639	
+2640	
+2641	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2642	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2643	Gammaproteobacteria
+2644	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2645	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2646	Gammaproteobacteria
+2647	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2648	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2649	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2650	Gammaproteobacteria
+2651	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2652	Gammaproteobacteria
+2653	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2654	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2655	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2656	Gammaproteobacteria
+2657	Gammaproteobacteria
+2658	Gammaproteobacteria
+2659	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2660	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;
+2661	Gammaproteobacteria
+2662	Gammaproteobacteria
+2663	Gammaproteobacteria
+2664	
+2665	
+2666	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia;
+2667	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;unclassified_Enterobacteriaceae;
+2668	Enterobacteriaceae
+2669	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Morganella;
+2670	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Providencia;
+2671	Enterobacteriaceae
+2672	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Photorhabdus;
+2673	Enterobacteriaceae
+2674	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;unclassified_Enterobacteriaceae;
+2675	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;
+2676	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia/Shigella;
+2677	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;
+2678	Enterobacteriaceae
+2679	Enterobacteriaceae
+2680	Enterobacteriaceae
+2681	
+2682	
+2683	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter;
+2684	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;
+2685	
+2686	
+2687	
+2688	
+2689	
+2690	
+2691	
+2692	
+2693	Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylomicrobium;
+2694	Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylobacter;
+2695	
+2696	
+2697	
+2698	
+2699	
+2700	
+2701	
+2702	
+2703	Bacteria;Proteobacteria;Gammaproteobacteria;
+2704	Bacteria;Proteobacteria;Gammaproteobacteria;
+2705	Bacteria;Proteobacteria;Gammaproteobacteria;
+2706	Bacteria;Proteobacteria;Gammaproteobacteria;
+2707	
+2708	
+2709	Bacteria;Proteobacteria;Gammaproteobacteria;
+2710	
+2711	
+2712	clade
+2713	clade
+2714	clade
+2715	clade
+2716	Proteobacteria
+2717	Proteobacteria
+2718	Proteobacteria
+2719	clade
+2720	clade
+2721	clade
+2722	clade
+2723	clade
+2724	clade
+2725	Proteobacteria
+2726	Proteobacteria
+2727	Proteobacteria
+2728	clade
+2729	clade
+2730	clade
+2731	Proteobacteria
+2732	clade
+2733	clade
+2734	Proteobacteria
+2735	Proteobacteria
+2736	Proteobacteria
+2737	clade
+2738	Proteobacteria
+2739	Proteobacteria
+2740	Proteobacteria
+2741	clade
+2742	clade
+2743	Proteobacteria
+2744	Proteobacteria
+2745	Proteobacteria
+2746	clade
+2747	clade
+2748	clade
+2749	Proteobacteria
+2750	clade
+2751	Proteobacteria
+2752	clade
+2753	clade
+2754	clade
+2755	Proteobacteria
+2756	clade
+2757	clade
+2758	Proteobacteria
+2759	Proteobacteria
+2760	Proteobacteria
+2761	Proteobacteria
+2762	Proteobacteria
+2763	Proteobacteria
+2764	Proteobacteria
+2765	clade
+2766	clade
+2767	clade
+2768	clade
+2769	Proteobacteria
+2770	Proteobacteria
+2771	Proteobacteria
+2772	Proteobacteria
+2773	clade
+2774	clade
+2775	clade
+2776	Proteobacteria
+2777	Proteobacteria
+2778	clade
+2779	clade
+2780	clade
+2781	Proteobacteria
+2782	Proteobacteria
+2783	clade
+2784	Proteobacteria
+2785	Proteobacteria
+2786	Proteobacteria
+2787	Proteobacteria
+2788	
+2789	
+2790	Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;Salinisphaera;
+2791	Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;Salinisphaera;
+2792	Gammaproteobacteria
+2793	Bacteria;Proteobacteria;Gammaproteobacteria;
+2794	Bacteria;Proteobacteria;Gammaproteobacteria;
+2795	Gammaproteobacteria
+2796	Gammaproteobacteria
+2797	Gammaproteobacteria
+2798	Gammaproteobacteria
+2799	Gammaproteobacteria
+2800	
+2801	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia;
+2802	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia;
+2803	
+2804	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+2805	
+2806	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+2807	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobacteraceae;unclassified_Desulfobacteraceae;
+2808	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobacteraceae;unclassified_Desulfobacteraceae;
+2809	
+2810	Bacteria;Proteobacteria;Deltaproteobacteria;Deltaproteobacteria_incertae_sedis;Dissulfuribacter;
+2811	
+2812	Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophobacteraceae;Syntrophobacter;
+2813	Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophaceae;Desulfobacca;
+2814	
+2815	
+2816	
+2817	
+2818	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+2819	Bacteria;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;
+2820	
+2821	
+2822	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+2823	Bacteria;Nitrospinae;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;
+2824	Bacteria;Nitrospinae;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;
+2825	Bacteria;Nitrospinae;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;
+2826	Bacteria;Nitrospinae;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;
+2827	Bacteria;Nitrospinae;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;
+2828	Nitrospinaceae
+2829	Nitrospinaceae
+2830	Nitrospinaceae
+2831	Nitrospinaceae
+2832	Nitrospinaceae
+2833	
+2834	Bacteria;Proteobacteria;Deltaproteobacteria;unclassified_Deltaproteobacteria;
+2835	
+2836	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;unclassified_Myxococcales;
+2837	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;unclassified_Myxococcales;
+2838	
+2839	
+2840	clade(Marine
+2841	clade(Marine
+2842	clade(Marine
+2843	
+2844	clade(Marine
+2845	
+2846	
+2847	clade(Marine
+2848	clade(Marine
+2849	clade(Marine
+2850	
+2851	
+2852	clade(Marine
+2853	
+2854	
+2855	
+2856	
+2857	
+2858	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Mucispirillum;
+2859	Bacteria;Hydrogenedentes;Candidatus
+2860	2
+2861	Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;unclassified_Spirochaetaceae;
+2862	Spirochaetia
+2863	Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;unclassified_Spirochaetaceae;
+2864	Spirochaetaceae
+2865	Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Treponema;
+2866	Spirochaetaceae
+2867	Spirochaetaceae
+2868	Spirochaetaceae
+2869	
+2870	
+2871	Bacteria;Ignavibacteriae;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;
+2872	Bacteria;Ignavibacteriae;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;unclassified_Ignavibacteriaceae;
+2873	Bacteria;Ignavibacteriae;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;unclassified_Ignavibacteriaceae;
+2874	Ignavibacteriaceae
+2875	
+2876	Bacteria;Chlorobi;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium;
+2877	
+2878	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Rhodothermaceae;unclassified_Rhodothermaceae;
+2879	Bacteria;Bacteroidetes;unclassified_Bacteroidetes;
+2880	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae;unclassified_Saprospiraceae;
+2881	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Ferruginibacter;
+2882	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga;
+2883	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Terrimonas;
+2884	
+2885	
+2886	
+2887	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;unclassified_Cytophagales;
+2888	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Spirosoma;
+2889	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae;Algoriphagus;
+2890	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae;Algoriphagus;
+2891	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae;Algoriphagus;
+2892	
+2893	
+2894	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae;Cyclobacterium;
+2895	
+2896	
+2897	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Rhodocytophaga;
+2898	
+2899	
+2900	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Mucilaginibacter;
+2901	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;
+2902	
+2903	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prolixibacteraceae;Sunxiuqinia;
+2904	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+2905	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+2906	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2907	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;Phaeocystidibacter;
+2908	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;Phaeocystidibacter;
+2909	
+2910	
+2911	marine
+2912	marine
+2913	marine
+2914	
+2915	
+2916	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2917	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2918	
+2919	
+2920	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;Owenweeksia;
+2921	
+2922	
+2923	marine
+2924	marine
+2925	
+2926	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2927	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2928	
+2929	
+2930	
+2931	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2932	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2933	
+2934	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae;unclassified_Cryomorphaceae;
+2935	
+2936	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;unclassified_Flavobacteriales;
+2937	
+2938	
+2939	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Elizabethkingia;
+2940	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Nonlabens;
+2941	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Croceibacter;
+2942	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Vitellibacter;
+2943	
+2944	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Gramella;
+2945	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;
+2946	
+2947	
+2948	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2949	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Myroides;
+2950	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;
+2951	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;
+2952	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;
+2953	
+2954	
+2955	
+2956	
+2957	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2958	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Gramella;
+2959	marine
+2960	marine
+2961	marine
+2962	
+2963	
+2964	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2965	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2966	
+2967	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2968	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2969	
+2970	
+2971	
+2972	
+2973	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Kordia;
+2974	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Polaribacter;
+2975	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Tenacibaculum;
+2976	
+2977	
+2978	
+2979	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Olleya;
+2980	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Bizionia;
+2981	
+2982	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Formosa;
+2983	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Formosa;
+2984	marine
+2985	marine
+2986	marine
+2987	marine
+2988	
+2989	
+2990	
+2991	
+2992	
+2993	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Psychroserpens;
+2994	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Winogradskyella;
+2995	
+2996	
+2997	
+2998	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+2999	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Maribacter;
+3000	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+3001	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Maribacter;
+3002	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Maribacter;
+3003	
+3004	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Maribacter;
+3005	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Maribacter;
+3006	
+3007	
+3008	
+3009	
+3010	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Cellulophaga;
+3011	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Cellulophaga;
+3012	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Cellulophaga;
+3013	
+3014	
+3015	
+3016	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;unclassified_Flavobacteriaceae;
+3017	
+3018	
+3019	
+3020	
+3021	
+3022	
+3023	
+3024	
+3025	
+3026	
+3027	
+3028	
+3029	
+3030	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Alloprevotella;
+3031	UCG-001
+3032	UCG-001
+3033	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+3034	Prevotellaceae
+3035	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+3036	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+3037	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+3038	Prevotellaceae
+3039	Prevotellaceae
+3040	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;
+3041	Prevotellaceae
+3042	Prevotellaceae
+3043	Prevotellaceae
+3044	
+3045	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;
+3046	
+3047	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;unclassified_Porphyromonadaceae;
+3048	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;unclassified_Porphyromonadaceae;
+3049	Bacteroidia
+3050	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;
+3051	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;
+3052	Porphyromonadaceae
+3053	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;
+3054	Porphyromonadaceae
+3055	Porphyromonadaceae
+3056	Porphyromonadaceae
+3057	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Butyricimonas;
+3058	
+3059	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+3060	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;
+3061	
+3062	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+3063	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+3064	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+3065	unclassified_Bacteroidales
+3066	unclassified_Bacteroidales
+3067	unclassified_Bacteroidales
+3068	unclassified_Bacteroidales
+3069	unclassified_Bacteroidales
+3070	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;unclassified_Bacteroidales;
+3071	Bacteria;Bacteroidetes;unclassified_Bacteroidetes;
+3072	Bacteria;Bacteroidetes;unclassified_Bacteroidetes;
+3073	Bacteria;Bacteroidetes;unclassified_Bacteroidetes;
+3074	
+3075	
+3076	
+3077	
+3078	
+3079	
+3080	
+3081	
+3082	
+3083	
+3084	(SAR406
+3085	(SAR406
+3086	Bacteria
+3087	(SAR406
+3088	(SAR406
+3089	Bacteria
+3090	(SAR406
+3091	Bacteria
+3092	(SAR406
+3093	Bacteria
+3094	
+3095	Bacteria;Dependentiae;Babeliae;Babeliales;Vermiphilaceae;
+3096	Bacteria;Fibrobacteres;Chitinivibrionia;Chitinivibrionales;Chitinivibrionaceae;Chitinivibrio;
+3097	Bacteria;Fibrobacteres;Chitinivibrionia;Chitinivibrionales;Chitinivibrionaceae;Chitinivibrio;
+3098	Bacteria;Fibrobacteres;Chitinivibrionia;Chitinivibrionales;Chitinivibrionaceae;Chitinivibrio;
+3099	
+3100	
+3101	
+3102	
+3103	
+3104	
+3105	
+3106	
+3107	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;
+3108	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;
+3109	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;
+3110	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;
+3111	
+3112	
+3113	
+3114	clade
+3115	clade
+3116	Bacteria
+3117	clade
+3118	Bacteria
+3119	clade
+3120	clade
+3121	clade
+3122	Bacteria
+3123	Bacteria
+3124	clade
+3125	clade
+3126	Bacteria
+3127	clade
+3128	clade
+3129	Bacteria
+3130	Bacteria
+3131	Bacteria
+3132	clade
+3133	clade
+3134	clade
+3135	Bacteria
+3136	clade
+3137	clade
+3138	clade
+3139	Bacteria
+3140	Bacteria
+3141	Bacteria
+3142	Bacteria
+3143	Bacteria
+3144	Bacteria
+3145	clade
+3146	clade
+3147	Bacteria
+3148	clade
+3149	clade
+3150	clade
+3151	clade
+3152	clade
+3153	clade
+3154	Bacteria
+3155	Bacteria
+3156	Bacteria
+3157	Bacteria
+3158	Bacteria
+3159	Bacteria
+3160	Bacteria
+3161	clade
+3162	clade
+3163	clade
+3164	clade
+3165	clade
+3166	Bacteria
+3167	Bacteria
+3168	Bacteria
+3169	clade
+3170	clade
+3171	clade
+3172	Bacteria
+3173	Bacteria
+3174	Bacteria
+3175	Bacteria
+3176	
+3177	Bacteria;Chloroflexi;Chloroflexia;Chloroflexales;Chloroflexineae;Chloroflexaceae;Roseiflexus;
+3178	
+3179	
+3180	Bacteria;unclassified_Bacteria;
+3181	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3182	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3183	Anaerolineae
+3184	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3185	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3186	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3187	Anaerolineae
+3188	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3189	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3190	Anaerolineae
+3191	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3192	Anaerolineae
+3193	Anaerolineae
+3194	Anaerolineae
+3195	Anaerolineae
+3196	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3197	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3198	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3199	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3200	Anaerolineae
+3201	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3202	Anaerolineae
+3203	Anaerolineae
+3204	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3205	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3206	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3207	Anaerolineae
+3208	Anaerolineae
+3209	Anaerolineae
+3210	Anaerolineae
+3211	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3212	Anaerolineae
+3213	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3214	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3215	Anaerolineae
+3216	Anaerolineae
+3217	Anaerolineae
+3218	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;unclassified_Anaerolineaceae;
+3219	Anaerolineae
+3220	
+3221	Bacteria;Chloroflexi;unclassified_Chloroflexi;
+3222	
+3223	
+3224	
+3225	Bacteria;Firmicutes;Clostridia;unclassified_Clostridia;
+3226	
+3227	Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermodesulfobiaceae;Coprothermobacter;
+3228	
+3229	
+3230	Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;Thermosphaera;
+3231	Archaea;Crenarchaeota;Thermoprotei;Desulfurococcales;Desulfurococcaceae;unclassified_Desulfurococcaceae;
+3232	
+3233	Archaea;Thaumarchaeota;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;
+3234	Archaea;Thaumarchaeota;Nitrososphaerales;Nitrososphaeraceae;Nitrososphaera;
+3235	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3236	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3237	Nitrosopumilales
+3238	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3239	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3240	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3241	Nitrosopumilales
+3242	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3243	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3244	Nitrosopumilales
+3245	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3246	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3247	Nitrosopumilales
+3248	Nitrosopumilales
+3249	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3250	Nitrosopumilales
+3251	Nitrosopumilales
+3252	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3253	Nitrosopumilales
+3254	Nitrosopumilales
+3255	Nitrosopumilales
+3256	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3257	Archaea;Thaumarchaeota;Nitrosopumilales;Nitrosopumilaceae;Nitrosopumilus;
+3258	Nitrosopumilales
+3259	Nitrosopumilales
+3260	Nitrosopumilales
+3261	Nitrosopumilales
+3262	Nitrosopumilales
+3263	Nitrosopumilales
+3264	
+3265	
+3266	Archaea;unclassified_Archaea;
+3267	Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobacterium;
+3268	Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobacterium;
+3269	Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanosphaera;
+3270	
+3271	
+3272	
+3273	
+3274	Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanomicrobiaceae;Methanoculleus;
+3275	Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanosarcinaceae;Methanococcoides;
+3276	Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanotrichaceae;Methanothrix;
+3277	Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;Methanotrichaceae;Methanothrix;
+3278	
+3279	
+3280	Archaea;Euryarchaeota;Methanomicrobia;Methanosarcinales;unclassified_Methanosarcinales;
+3281	
+3282	
+3283	
+3284	Archaea;Euryarchaeota;unclassified_Euryarchaeota;
+3285	
+3286	Archaea;Euryarchaeota;Thermoplasmata;unclassified_Thermoplasmata;
+3287	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3288	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3289	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3290	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3291	Thermoplasmata
+3292	Thermoplasmata
+3293	Thermoplasmata
+3294	Thermoplasmata
+3295	Thermoplasmata
+3296	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3297	Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomassiliicoccaceae;Methanomassiliicoccus;
+3298	
+3299	
+3300	Archaea;Euryarchaeota;unclassified_Euryarchaeota;
+3301	Archaea;Euryarchaeota;unclassified_Euryarchaeota;
+3302	
+3303	
+3304	
+3305	Archaea;Euryarchaeota;Thermoplasmata;unclassified_Thermoplasmata;
+3306	
