@@ -138,7 +138,7 @@ Most of the reference databases provided here have been created over multiple ye
   + available: 16S full_length
   + *currently missing the actual database, still need to upload; have uploaded only the full length alignment separately*
 + Prochlorococcus (Grone et al. 2022)
-  + *currently missing, uploaded soon*
+  + *currently only has the original PA tarball; need to unpack + reformat + upload the full length alignment (if the DB itself isn't*
 + Cyanobacteria + Plastid
   + available: 16S v1v2
   + validated: 16S v1v2
