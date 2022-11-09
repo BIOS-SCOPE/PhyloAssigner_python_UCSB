@@ -132,7 +132,7 @@ Most of the reference databases provided here have been created over multiple ye
   + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
 + Cyanobacteria
-  + available: 16S v1v2
+  + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
 + Prochlorococcus (Strauss & Choi et al. 2022)
   + available: 16S full_length
