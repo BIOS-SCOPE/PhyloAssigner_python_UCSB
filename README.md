@@ -82,6 +82,10 @@ Currently available databases (and the paper in which they were published) compr
   + Choi et al. 2017; "Newly discovered deep-branching marine plastid lineages are numerically rare but globally distributed"
 + Viridiplantae (16S plastid)
   + *Worden Lab; unpublished*
++ Chrysophyceae (16S plastid)
+  + *Worden Lab; unpublished*
++ Synechococcus  
+  + *Worden Lab; unpublished* 
 
 ### command example
 
