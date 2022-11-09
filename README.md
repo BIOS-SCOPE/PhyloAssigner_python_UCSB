@@ -116,20 +116,20 @@ Most of the reference databases provided here have been created over multiple ye
   + validated: 16S v1v2
 + SAR11
   + available: 16S full_length
-  + validated: 16S v1v2 & 16S v4
+  + validated: 16S v1v2 & 16S v4 (on full length alignment)
   + see [here](https://github.com/lbolanos32/NAAMES_2020) for the originally published database, reformatted for the python3 version of phyloassigner now
 + SAR202
   + available: 16S full_length
-  + validated: 16S v1v2 & 16S v4
+  + validated: 16S v1v2 & 16S v4 (on full length alignment)
   + see [here](https://github.com/lbolanos32/NAAMES_2020) for the originally published database, reformatted for the python3 version of phyloassigner now
 + Dictyochophyceae
   + available: 16S full_length
-  + validated: 16S v1v2
+  + validated: 16S v1v2 (on full length alignment)
 + Pelagophyceae
-  + available: 16S v1v2
+  + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
 + Stramenopiles
-  + available: 16S v1v2
+  + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
 + Cyanobacteria
   + available: 16S v1v2
@@ -140,8 +140,10 @@ Most of the reference databases provided here have been created over multiple ye
 + Prochlorococcus (Grone et al. 2022)
   + *currently only has the original PA tarball; need to unpack + reformat + upload the full length alignment (if the DB itself isn't*
 + Cyanobacteria + Plastid
-  + available: 16S v1v2
+  + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
 + Viridiplantae
-  + available: 16S v1v2
+  + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
+
+per default, PhyloAssigner currently runs for the v1v2 region. If you want to run amplicons from a different region, some modifications will be necessary for all reference databases that are not validated for the 16S v1v2 region. If a 16S full_length alignment is available these changes can be implemented so please reach out to the author of this git if this becomes relevant to you.
