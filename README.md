@@ -67,8 +67,6 @@ Currently available databases (and the paper in which they were published) compr
 + SAR202
   + Landy et al. 2017; "SAR202 Genomes from the Dark Ocean Predict Pathways for the Oxidation of Recalcitrant Dissolved Organic Matter"
   + see: https://github.com/lbolanos32/NAAMES_2020
-+ Chrysophyceae (16S plastid)
-  + *Worden Lab; unpublished*
 + Dictyochophyceae (16S plastid)
   + Choi et al. 2021; "Seasonal and Geographical Transitions in Eukaryotic Phytoplankton Community Structure in the Atlantic and Pacific Oceans"
 + Pelagophyceae (16S plastid)
@@ -108,3 +106,41 @@ python pythonassigner_v0.9.py \
     --threads 32 \
     --placer pplacer
 ```
+
+### 16S region compability
+
+Most of the reference databases provided here have been created over multiple years and they do differ in the 16S region that they are suitable for. Some alignments are specific to the v1v2 region, while others can be used for the v4 or v4v5 region as well. Here is an overview of which databases can be used for which regions: 
+
++ Global
+  + available: 16S v1v2
+  + validated: 16S v1v2
++ SAR11
+  + available: 16S full_length
+  + validated: 16S v1v2 & 16S v4
+  + see [here](https://github.com/lbolanos32/NAAMES_2020) for the originally published database, reformatted for the python3 version of phyloassigner now
++ SAR202
+  + available: 16S full_length
+  + validated: 16S v1v2 & 16S v4
+  + see [here](https://github.com/lbolanos32/NAAMES_2020) for the originally published database, reformatted for the python3 version of phyloassigner now
++ Dictyochophyceae
+  + available: 16S full_length
+  + validated: 16S v1v2
++ Pelagophyceae
+  + available: 16S v1v2
+  + validated: 16S v1v2
++ Stramenopiles
+  + available: 16S v1v2
+  + validated: 16S v1v2
++ Cyanobacteria
+  + available: 16S v1v2
+  + validated: 16S v1v2
++ Prochlorococcus (Strauss & Choi et al. 2022)
+  + *currently missing, uploaded soon*
++ Prochlorococcus (Grone et al. 2022)
+  + *currently missing, uploaded soon*
++ Cyanobacteria + Plastid
+  + available: 16S v1v2
+  + validated: 16S v1v2
++ Viridiplantae
+  + available: 16S v1v2
+  + validated: 16S v1v2
