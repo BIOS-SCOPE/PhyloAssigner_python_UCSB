@@ -107,7 +107,7 @@ python pythonassigner_v0.9.py \
     --placer pplacer
 ```
 
-### 16S region compability
+### 16S region compatibility
 
 Most of the reference databases provided here have been created over multiple years and they do differ in the 16S region that they are suitable for. Some alignments are specific to the v1v2 region, while others can be used for the v4 or v4v5 region as well. Here is an overview of which databases can be used for which regions: 
 
