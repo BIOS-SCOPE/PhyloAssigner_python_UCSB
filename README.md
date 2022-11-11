@@ -76,7 +76,7 @@ Currently available databases (and the paper in which they were published) compr
 + Cyanobacteria
   + Sudek et al. 2015; "Cyanobacterial distributions along a physico-chemical gradient in the Northeastern Pacific Ocean" 
 + Prochlorococcus
-  + *Worden Lab; unpublished* 
+  + *Worden Lab; unpublished* (Strauss&Choi et al. submitted)
 + Cyanobacteria + Plastid
   + Sudek et al. 2015; "Cyanobacterial distributions along a physico-chemical gradient in the Northeastern Pacific Ocean"
   + Choi et al. 2017; "Newly discovered deep-branching marine plastid lineages are numerically rare but globally distributed"
@@ -138,11 +138,9 @@ Most of the reference databases provided here have been created over multiple ye
 + Cyanobacteria
   + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
-+ Prochlorococcus (Strauss & Choi et al. 2022)
-  + available: 16S full_length
-  + *currently missing the actual database, still need to upload; have uploaded only the full length alignment separately*
-+ Prochlorococcus (Grone et al. 2022)
-  + *currently only has the original PA tarball; need to unpack + reformat + upload the full length alignment (if the DB itself isn't*
++ Prochlorococcus
+  + available: 16S v1v2 & 16S full_length
+  + validated: 16S v1v2
 + Cyanobacteria + Plastid
   + available: 16S v1v2 & 16S full_length
   + validated: 16S v1v2
