@@ -13,7 +13,7 @@ This rewrite includes a small bugfix on how the old perl-code handled the comput
 PhyloAssigner handles alignment, reformatting, placement and output summary all within one command and therefore relies on some dependencies. I advice to run PhyloAssigner on a linux system, idealy a cluster with a good chunk of RAM, although it can run on low RAM systems just fine (will just take longer). It installation is simple, all dependencies can be installed in 1 command by creating a new conda environment to run PhyloAssigner in.
 
 ```{bash}
-conda env create -f pythonassignler_linux.yml
+conda env create -f pythonassigner_linux.yml
 ```
 
 ### command structure
