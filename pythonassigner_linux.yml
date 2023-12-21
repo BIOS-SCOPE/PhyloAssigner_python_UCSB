@@ -25,3 +25,5 @@ dependencies:
   - fastalite #for taxtastic
   - jinja2 #for taxtastic
   - dendropy
+  - sqlparse # if this doesn't install, then run: pip install sqlparse
+  - seqtk # for subsetting between PA runs for consecutive databases. Not mandatory but allows to stay in environment between PA runs.
