@@ -1,0 +1,85 @@
+V1	V2	V3
+80	
+82	
+81	eus	UncB3127
+83	
+76	
+70	
+62	
+58	
+44	
+28	
+18	
+12	
+6	chr_clade_A
+2	chr_clade_A;
+0	chr_clade_A	CATbAT00
+1	chr_clade_A	UncB1640
+5	chr_clade_A;
+3	chr_clade_A	CDADBA02
+4	chr_clade_A	UncBa448
+11	chr_clade_B
+9	chr_clade_B;
+7	chr_clade_B	CNTSBT02
+8	chr_clade_B	UncBa539
+10	chr_clade_B	UncBa514
+17	chr_clade_C
+15	chr_clade_C;
+13	chr_clade_C	CNiSBai0
+14	chr_clade_C	UncB2724
+16	chr_clade_C	UncCya75
+27	chr_clade_D
+25	chr_clade_D;
+21	chr_clade_D;
+19	chr_clade_D	CcbSAbzA
+20	chr_clade_D	UncPho30
+24	chr_clade_D;
+22	chr_clade_D	UncB2712
+23	chr_clade_D	UncOrg72
+26	chr_clade_D	UncB2980
+43	chr_clade_E
+39	chr_clade_E;
+37	chr_clade_E;
+35	chr_clade_E;
+31	chr_clade_E;
+29	chr_clade_E	CSLLSB00
+30	chr_clade_E	UniMar84
+34	chr_clade_E;
+32	chr_clade_E	UncB1809
+33	chr_clade_E	UncB1858
+36	chr_clade_E	UncMar13
+38	chr_clade_E	UncBa890
+42	chr_clade_E;
+40	chr_clade_E	CAzSAbzu
+41	chr_clade_E	UncB3214
+57	
+55	
+51	chr_clade_F
+49	chr_clade_F;
+47	chr_clade_F;
+45	chr_clade_F	UncB3264
+46	chr_clade_F	UncEuk80
+48	chr_clade_F	UncRhodo
+50	chr_clade_F	UncBa298
+54	
+52		AccCAMNT
+53		OcmYyyyy
+56		GmnNCGRS
+61	chr_clade_G
+59	chr_clade_G	MllCAMNT
+60	chr_clade_G	UncBa295
+69	
+65	chr_clade_H
+63	chr_clade_H	DnbCAMNT
+64	chr_clade_H	UncPho62
+68	chr_clade_I
+66	chr_clade_I	UncB1742
+67	chr_clade_I	UncB3735
+75	chr_clade_J
+73	chr_clade_J;
+71	chr_clade_J	UncB3317
+72	chr_clade_J	UncB3540
+74	chr_clade_J	ChXCAMNT
+79	chr_clade_K
+77	chr_clade_K	UncEuka5
+78	chr_clade_K	UncEukar
